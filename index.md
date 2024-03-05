@@ -6,6 +6,7 @@ I am a former student in the [Mathsys II CDT](https://warwick.ac.uk/fac/sci/mat
 
 <br>
 
+<pre>
 My research interests span a wide range of areas in computational mathematics, including:
 
 * numerical integration (e.g. parallel-in-time methods)
@@ -13,8 +14,12 @@ My research interests span a wide range of areas in computational mathematics, i
 * particle filtering/data assimilation
 * inference and uncertainty quantification
 * multiscale/hybrid modelling
+</pre>
 
+<pre>
 Please feel to get in contact via [email](mailto:kamran.pentland@ukaea.uk) if you have questions about any of my research or are interested in collaboration!
+</pre>
+
 
 <br>
 
