@@ -37,7 +37,7 @@ owner:
 # For external links add external: true
 links:
   - title: Home
-    url: /
+    url: 
   - title: Publications
     url: /publications/
   - title: Teaching
