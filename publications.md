@@ -4,9 +4,15 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+> Lastest Update: 5th March 2023&nbsp;  
 
-## Conference Paper
+### 2023
+
+K. Pentland, M. Tamborrino, and T. J. Sullivan. "Error bound analysis of the stochastic parareal algorithm." 2023. SIAM J. Sci. Comput. Vo. 45, No. 5, pp. A2657-A2678.
+
+
+
+
 
 - [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Tozammel Hossain, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024. Full paper submitted to KDD 2024.
 
