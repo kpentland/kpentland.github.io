@@ -2,8 +2,6 @@
 layout: page
 ---
 
-### about
-
 I am a former student in the [Mathsys II CDT](https://warwick.ac.uk/fac/sci/mathsys/) having read for a PhD in Mathematics of Real-World Systems. I now work as a computational scientist in the plasma simulation group at the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/).
 
 <br>
@@ -22,7 +20,7 @@ Please feel to get in contact via [email](mailto:kamran.pentland@ukaea.uk) if 
 
 ---
 
-
+<!-- 
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
@@ -47,6 +45,4 @@ Please feel to get in contact via [email](mailto:kamran.pentland@ukaea.uk) if 
 - **May 2023：**Collected the Finalist Award in MCM**/**ICM 2023 (Top 1%).
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
 - **Jun 2022：**Started research intern at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
-
-
+-->
