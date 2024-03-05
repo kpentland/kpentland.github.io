@@ -4,6 +4,9 @@ permalink: profile/index.html
 title: Profile
 ---
 
+To be added. 
+
+<!-- 
 ### Education
 
 **PhD Mathematics of Systems** | University of Warwick (2020-Present)
@@ -25,4 +28,4 @@ MSc Thesis: "Spin-down in the absence of reflected waves". Supervised by Prof. E
 Industrial placement year: Quantitative market risk analyst at at ConocoPhillips.
 ___
 <br>
-
+-->
