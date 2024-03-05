@@ -41,7 +41,7 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 > Our group website: [https://fzuiot.site/](https://fzuiot.site/)
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams1.jpg">
+<img src=" https://kpentland.github.io/images/profile.jpeg">
 </div>
 
 <br>
