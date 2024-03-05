@@ -38,6 +38,8 @@ owner:
 links:
   - title: Home
     url: 
+  - title: Profile
+    url: profile/
   - title: Publications
     url: publications/
   - title: Teaching
