@@ -36,18 +36,13 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Home
     url: /
-  - title: Teams
-    url: /teams/
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - title: Teaching
+    url: /teaching/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/London
