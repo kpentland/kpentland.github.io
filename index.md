@@ -4,7 +4,9 @@ layout: page
 
 ### about
 
-Hello! I am a former student in the [Mathsys II CDT](https://warwick.ac.uk/fac/sci/mathsys/) having read for a PhD in Mathematics of Real-World Systems. I now work as a computational scientist in the plasma simulation group at the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/).
+I am a former student in the [Mathsys II CDT](https://warwick.ac.uk/fac/sci/mathsys/) having read for a PhD in Mathematics of Real-World Systems. I now work as a computational scientist in the plasma simulation group at the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/).
+
+<br>
 
 My research interests span a wide range of areas in computational mathematics, including:
 
@@ -14,7 +16,6 @@ My research interests span a wide range of areas in computational mathematics, i
 * inference and uncertainty quantification
 * multiscale/hybrid modelling
 
-  
 Please feel to get in contact via [email](mailto:kamran.pentland@ukaea.uk) if you have questions about any of my research or are interested in collaboration!
 
 <br>
@@ -30,20 +31,6 @@ Please feel to get in contact via [email](mailto:kamran.pentland@ukaea.uk) if 
 - **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
 - **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
 - **June 2022 - Nov 2022:** Cambridge University (Intern)
-
-<br>
-
----
-
-## Research Interests
-
-- Internet of Everything (IoE)
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
