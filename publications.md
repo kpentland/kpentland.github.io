@@ -23,6 +23,3 @@ Please find below a complete list of my publications.
 
 ---
 
-> Latest update: 6th March 2023&nbsp;  
-
-<br>
