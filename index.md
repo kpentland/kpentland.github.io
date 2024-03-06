@@ -2,13 +2,15 @@
 layout: page
 ---
 
+## Home
+
 ---
 
 ### About Me
 
-I am currently working as a computational scientist in the plasma simulation group at the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/).
-Prior to this, I was a student in the [Mathsys II CDT](https://warwick.ac.uk/fac/sci/mathsys/) reading for a PhD in the Mathematics of Real-World Systems.
-Please head to my [profile](https://kpentland.github.io/profile/) page for an overview of my work and educational history.  
+I am currently working as a **computational scientist** in the **plasma simulation** group at the [**Culham Centre for Fusion Energy**](https://ccfe.ukaea.uk/).
+Prior to this, I was a student in the [**Mathsys II CDT**](https://warwick.ac.uk/fac/sci/mathsys/) reading for a **PhD in the Mathematics of Real-World Systems**.
+Please head to my [**profile**](https://kpentland.github.io/profile/) page for an overview of my work and educational history.  
 
 ---
 
