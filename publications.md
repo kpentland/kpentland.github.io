@@ -7,7 +7,7 @@ title: Publications
 
 ## Publications
 
-Please find below a complete list of my research plublications. 
+Please find below a complete list of my publications. 
 
 ---
 
@@ -18,8 +18,6 @@ Please find below a complete list of my research plublications.
 - **K. Pentland**, M. Tamborrino, T. J. Sullivan, J. Buchanan, and L.C. Appel. ["GParareal: a time-parallel ODE solver using Gaussian process emulation."](https://link.springer.com/article/10.1007/s11222-022-10195-y) 2023. Statistics and Computing. 33, 23. 
 
 - **K. Pentland**, M. Tamborrino, D. Samaddar, and L.C. Appel. ["Stochastic parareal: an application of probabilistic methods to time-parallelisation."](https://epubs.siam.org/doi/10.1137/21M1414231) 2023. SIAM J. Sci. Comput. Vol. 45, No. 3, pp. S82-S102.
-
-<br>
 
 ---
 
