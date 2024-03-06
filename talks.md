@@ -59,11 +59,15 @@ If you would like to meet or discuss any of the following, please get in contact
 
 - **Probabilistic Numerical Methods: From Theory to Implementation Workshop**, *Schloss Dagstuhl, Germany* | Attendee (Oct 2021)
 
+- **Gaussian Procceses Summer School**, *University of Sheffield* | Atendee (Sep 2021)
+
 - **SIAM National Student Chapter Conference**, *University of Oxford* | Poster session (Jun 2021)
 
 - **MathSys Annual Conference**, *University of Warwick* | Three minute thesis - joint winner best 1st year talk (Apr 2021)
 
 - **Physics and Technology Seminar**, *CCFE, Oxford* | Invited talk (Mar 2021)
+
+- **UK Graduate Modelling Camp**, *University of Oxford* | Industry group modelling (Mar 2021)
 
 - **MathSys Weekly Forum**, *University of Warwick* | Invited talk (Jan 2021)
 
@@ -72,6 +76,8 @@ If you would like to meet or discuss any of the following, please get in contact
 <br>
 ---
 ### 2020
+
+- **HetSys Study Group**, *University of Warwick* | Industry group modelling (Dec 2020)
 
 - **MSc Project Talks**, *University of Warwick* | MSc talk (Sep 2020)
 
