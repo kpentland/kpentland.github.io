@@ -53,6 +53,7 @@ MSc thesis: ["Hats and pancakes in the sky: high-speed droplet dynamics"](file/M
 Supervisors: [Dr. Radu Cimpeanu](https://www.raducimpeanu.com/) and [Dr. Ed Brambley](https://warwick.ac.uk/fac/sci/maths/people/staff/brambley/).
 MSc group project: "Stochastic parareal: an application of probabilistic methods to time-parallelisation" (see publications for paper). 
 Supervisors: [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/), Dr. Debasmita Samaddar (UKAEA), and Dr. Lynton Appel (UKAEA).
+Interdisciplinary report: ["To what extent does incorporating more complexity into models make them less informative?"](file/IM903_Report.pdf). 
 
 2018 - 2019: **MSc Mathematical Modelling** | University College London
 MSc thesis: ["Spin-down in the absence of reflected waves"](file/MSc_Project_KP.pdf). 
