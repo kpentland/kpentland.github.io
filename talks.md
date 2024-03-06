@@ -12,7 +12,7 @@ If you would like to meet or discuss any of the following, please get in contact
 
 ### 2024
 
-- **ExCALIBUR: Data Driven Algorithm Workshops**, *University of Exeter* \| Invited talk (Jan 2024)
+- **ExCALIBUR: Data Driven Algorithm Workshops** \| *University of Exeter* - Invited talk (Jan 2024)
 
 ---
 
