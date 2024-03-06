@@ -15,7 +15,7 @@ title: Profile
 
 ### Positions
 
-#### Graduate Teaching Assistant
+**Graduate Teaching Assistant**
 - **University:** University of Warwick
 - **Duration:** 2020 - 2021
 - **Courses:**
