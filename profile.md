@@ -20,7 +20,7 @@ title: Profile
 - **Duration:** 2020 - 2021
 - **Courses:**
   - Multivariable Calculus (MA259) and Mathematical Methods and Modelling (MA145) - 2022/23
-  - Stochastic modelling and random processes (MA933), Brownian motion (MA4F7), and Intro to PDEs (MA250) - 2021/22
+  - Stochastic Modelling and Random Processes (MA933), Brownian Motion (MA4F7), and Intro to PDEs (MA250) - 2021/22
   - Intro to PDEs (MA250), Algorithms (CS260), and Introduction to Mathematical Biology (MA256) - 2020/21
 - **Additional Duties:** Exam marking and invigilation.
 
@@ -32,7 +32,7 @@ title: Profile
 ### Summer Research Internship
 - **University:** University of Bath
 - **Duration:** 2017
-- **Project Title:** "Hybrid methods for simulating reaction-diffusion systems"
+- **Project Title:** "Hybrid Methods for Simulating Reaction-Diffusion Systems"
 - **Supervisor:** [Dr. Christian Yates](https://www.kityates.com/)
 
 ### Mathematics Tutor
@@ -44,32 +44,31 @@ title: Profile
 - **Company:** ConocoPhillips Ltd., London
 - **Duration:** 2015 - 2016
 
-<br>
-___
-### Education
+---
+
+## Education
 
 - **PhD Mathematics of Systems** | University of Warwick (2020 - 2023)
-  - **Thesis title:** ["Towards probabilistic time-parallel algorithms for solving initial value problems"](file/Thesis_KP.pdf)
+  - **Thesis Title:** ["Towards Probabilistic Time-Parallel Algorithms for Solving Initial Value Problems"](file/Thesis_KP.pdf)
   - **Supervisors:** [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/) and [Dr. Tim Sullivan](http://www.tjsullivan.org.uk/).
 
 - **MSc Mathematics of Systems** | University of Warwick (2019 - 2020)
-  - **MSc thesis:** ["Hats and pancakes in the sky: high-speed droplet dynamics"](file/MSc_Project_KP.pdf)
-  - **Supervisors:** [Dr. Radu Cimpeanu](https://www.raducimpeanu.com/) and [Dr. Ed Brambley](https://warwick.ac.uk/fac/sci/maths/people/staff/brambley/).
-  - **MSc group project:** "Stochastic parareal: an application of probabilistic methods to time-parallelisation" (see publications for paper).
-  - **Supervisors:** [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/), Dr. Debasmita Samaddar (UKAEA), and Dr. Lynton Appel (UKAEA).
-  - **Interdisciplinary report:** ["To what extent does incorporating more complexity into models make them less informative?"](file/IM903_Report.pdf).
+  - **MSc Thesis:** ["Hats and Pancakes in the Sky: High-Speed Droplet Dynamics"](file/MSc_Project_KP.pdf)
+  - **Supervisors:** [Dr. Radu Cimpeanu](https://www.raducimpeanu.com/) and [Dr. Ed Brambley](https://warwick.ac.uk/fac/sci/maths/people/staff/brambley/)
+  - **MSc Group Project:** "Stochastic Parareal: An Application of Probabilistic Methods to Time-Parallelisation" (see publications for paper)
+  - **Supervisors:** [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/), Dr. Debasmita Samaddar (UKAEA), and Dr. Lynton Appel (UKAEA)
+  - **Interdisciplinary Report:** ["To What Extent Does Incorporating More Complexity into Models Make Them Less Informative?"](file/IM903_Report.pdf)
 
 - **MSc Mathematical Modelling** | University College London (2018 - 2019)
-  - **MSc thesis:** ["Spin-down in the absence of reflected waves"](file/MSc_Project.pdf).
-  - **Supervisor:** [Prof. Edward Johnson](https://www.ucl.ac.uk/~ucaherj/).
+  - **MSc Thesis:** ["Spin-Down in the Absence of Reflected Waves"](file/MSc_Project.pdf)
+  - **Supervisor:** [Prof. Edward Johnson](https://www.ucl.ac.uk/~ucaherj/)
 
 - **BSc Mathematics with Industrial Placement** | University of Bath (2013 - 2017)
-  - **Industrial placement year:** Quantitative market risk analyst at ConocoPhillips.
+  - **Industrial Placement Year:** Quantitative Market Risk Analyst at ConocoPhillips
 
-<br>
-___
+---
 
-### Other Academic Positions
+## Other Academic Positions
 
 - **SIAM Student Chapter President** | University of Warwick (2021 - 2022)
 
