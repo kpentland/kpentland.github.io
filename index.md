@@ -13,7 +13,7 @@ Prior to this, I was a doctoral student in the [**Mathsys II CDT**](https://war
 Please head to my [**profile**](https://kpentland.github.io/profile/) page for an overview of my work and educational history.  
         
 <div>
-<img src="https://kpentland.github.io/images/prof_pic.jpg" align="right">
+<img src="https://kpentland.github.io/images/prof_pic.jpg" align="right" class="floatpic" width="360" height="480>
 </div>
 
 ---
