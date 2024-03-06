@@ -8,18 +8,17 @@ title: Profile
 ___
 ### Personal Information
 
-<p>Name: Kamran Pentland</p>
+Name: Kamran Pentland
+- 
 
-<br>
-
-<p>Current Position: Computational Scientist - Culham Centre for Fusion Energy (UKAEA)</p>
-
+Current Position: Computational Scientist - Culham Centre for Fusion Energy (UKAEA)
+- 
 
 Address: Culham Campus, Abingdon, Oxfordshire, OX14 3DB
-
-<br>
+-
 
 Email: [kamran.pentland@ukaea.uk](mailto:kamran.pentland@ukaea.uk)
+- 
 
 <br>
 
