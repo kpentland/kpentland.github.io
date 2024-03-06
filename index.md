@@ -13,7 +13,7 @@ I am currently working as a **computational scientist** in the **plasma simulati
 Prior to this, I was a doctoral student in the [**Mathsys II CDT**](https://warwick.ac.uk/fac/sci/mathsys/) reading for a **PhD in the Mathematics of Real-World Systems**.
 Please head to my [**profile**](https://kpentland.github.io/profile/) page for an overview of my work and educational history.
 
-<img src="https://kpentland.github.io/images/prof_pic.jpg" align="center" class="floatpic" width="360" height="480">
+<img src="https://kpentland.github.io/images/prof_pic.jpg" align="center" width="360" height="480">
 
 ---
 
