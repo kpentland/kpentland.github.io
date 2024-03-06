@@ -32,18 +32,6 @@ Please feel to get in contact via [email](mailto:kamran.pentland@ukaea.uk) if 
 ---
 
 <!-- 
-## Academic Background
-
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2024 - Sep 2025：**Cambridge University (MPhil, EE)
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-
-<br>
-
----
 
 ## News and Updates
 
