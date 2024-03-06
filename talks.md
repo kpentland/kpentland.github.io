@@ -64,5 +64,3 @@ title: Talks
 - **MSc Project Talks** \| *University College London* - MSc talk (Sep 2019)
 
 ---
-
-> Latest update: 6th March 2023&nbsp;
