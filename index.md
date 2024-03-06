@@ -4,8 +4,6 @@ layout: page
 
 I am a former student in the [Mathsys II CDT](https://warwick.ac.uk/fac/sci/mathsys/) having read for a PhD in Mathematics of Real-World Systems. I now work as a computational scientist in the plasma simulation group at the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/).
 
-<br>
-
 ---
 
 ### Research Interests
@@ -18,16 +16,10 @@ My research interests span a wide range of areas in computational mathematics, i
 * inference and uncertainty quantification
 * multiscale/hybrid modelling
 
-<br>
-
 ---
 
 ### Contact
 Please feel to get in contact via [email](mailto:kamran.pentland@ukaea.uk) if you have questions about any of my research or are interested in collaboration!
-
-
-
-<br>
 
 ---
 
