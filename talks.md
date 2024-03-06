@@ -4,9 +4,7 @@ permalink: talks/index.html
 title: Talks
 ---
 
-## Conferences, Invited Talks, and Other Gatherings
-
-If you would like to meet or discuss any of the following, please get in contact via [email](mailto:kamran.pentland@ukaea.uk).
+## Conferences, Invited Talks, and Academic Gatherings
 
 ---
 
