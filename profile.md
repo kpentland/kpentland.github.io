@@ -21,13 +21,23 @@ Email: [kamran.pentland@ukaea.uk](mailto:kamran.pentland@ukaea.uk)
 ___
 ### Positions
 
+2020 - 2021: **Graduate Teaching Assistant** | University of Warwick
+ - 2022/23: Multivariable Calculus (MA259) and Mathematical Methods and Modelling (MA145).
+ - 2021/22: Stochastic modelling and random processes (MA933), Brownian motion (MA4F7), and Intro to PDEs (MA250).
+ - 2020/21: Intro to PDEs (MA250), Algorithms (CS260), and Introduction to Mathematical Biology (MA256).
+ - Additional duties: Exam marking and invigilation.
+
+2020 - 2021: **Mathematics Tutor** | Kings College London
+ - Teaching: Numerical and Computational Methods (6CCM359a) and Introduction to Dynamical Systems (4CCM131a).
+
 2017 - 2017: **Summer Research Internship** | University of Bath
 Project title: "Hybrid methods for simulating reaction-diffusion systems".
 Supervisor: [Dr. Christian Yates](https://www.kityates.com/).
 
+2016 - 2017: **Mathematics Tutor** | Univeristy of Bath
+ - Teaching: Programming and Discrete Mathematics (1st year).
 
 2015 - 2016: **Quantitative Market Risk Analyst** | ConocoPhillips Ltd., London
-
 
 
 <br>
