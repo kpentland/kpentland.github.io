@@ -20,11 +20,11 @@ title: Profile
 
 ### Positions
 
-**Graduate Teaching Assistant** \| University of Warwick (2020 - 2023)
-- **Courses:** Multivariable Calculus (MA259), Mathematical Methods and Modelling (MA145), Stochastic Modelling and Random Processes (MA933), Brownian Motion (MA4F7), Intro to PDEs (MA250), Algorithms (CS260), and Introduction to Mathematical Biology (MA256).
+- **Graduate Teaching Assistant** \| University of Warwick (2020 - 2023)
+  - **Courses:** Multivariable Calculus (MA259), Mathematical Methods and Modelling (MA145), Stochastic Modelling and Random Processes (MA933), Brownian Motion (MA4F7), Intro to PDEs (MA250), Algorithms (CS260), and Introduction to Mathematical Biology (MA256).
 
-**Mathematics Tutor** \| Kings College London (2020 - 2021)
-- **Courses:** Numerical and Computational Methods (6CCM359a) and Introduction to Dynamical Systems (4CCM131a).
+- **Mathematics Tutor** \| Kings College London (2020 - 2021)
+  - **Courses:** Numerical and Computational Methods (6CCM359a) and Introduction to Dynamical Systems (4CCM131a).
 
 **Summer Research Internship** \| University of Bath (2017)
 - **Project Title:** "Hybrid Methods for Simulating Reaction-Diffusion Systems".
