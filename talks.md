@@ -1,38 +1,89 @@
 ---
 layout: page
-permalink: publications/index.html
-title: Publications
+permalink: talks/index.html
+title: Talks
 ---
 
-
+## Conferences, invited talks, and other gatherings
 
 <br>
 
----
+If you would like to meet or discuss any of the following, please get in contact via [email](mailto:kamran.pentland@ukaea.uk).
 
+
+<br>
+---
+### 2024
+
+- **ExCALIBUR: Data Driven Algorithm Workshops**, *University of Exeter* | Invited talk (Jan 2024)
+
+<br>
+---
 ### 2023
 
-- **K. Pentland**, M. Tamborrino, and T. J. Sullivan. ["Error bound analysis of the stochastic parareal algorithm."](https://epubs.siam.org/doi/abs/10.1137/22M1533062?journalCode=sjoce3) 2023. SIAM J. Sci. Comput. Vo. 45, No. 5, pp. A2657-A2678.
+- **ICIAM 2023 Minisymposium**, *Tokyo, Japan* | Invited talk (Aug 2023)
+
+- **BAMC 2023**, *Bristol, UK* | Poster session (Apr 2023)
+
+- **SIAM CSE 2023 Minisymposium**, *Amsterdam, Netherlands* | Invited talk (Feb 2023)
+
+- **Exascale Computing Challenges: PinT Algorithms**, *University of Exeter* | Invited talk (Jan 2023)
 
 <br>
+---
+### 2022
 
-- **K. Pentland**, M. Tamborrino, T. J. Sullivan, J. Buchanan, and L.C. Appel. ["GParareal: a time-parallel ODE solver using Gaussian process emulation."](https://link.springer.com/article/10.1007/s11222-022-10195-y) 2023. Statistics and Computing. 33, 23. 
+- **Culham Plasma Physics Summer School**, *CCFE, Oxford* | Poster session (Jul 2022)
+
+- **11th Workshop on Parallel-in-Time Integration**, *CIRM, Marseille* | Poster session (Jul 2022)
+
+- **APinTA Kick-Off Meeting**, *University of Exeter* | Invited talk (Jun 2022)
+
+- **MathSys Annual Conference**, *University of Warwick* | Poster session (Apr 2022)
+
+- **BAMC 2022**, *University of Loughborough* | Poster session (Apr 2022)
+
+- **Heilbronn ProbNum Workshop**, *London* | Invited talk (Mar 2022)
+
+- **Warwick Statistics Department Conference**, *Gregynog Hall, Wales* | Poster session (Mar 2022)
+
+- **Algo. and Comp. Intensive Inference Seminar**, *University of Warwick* | Invited talk (Mar 2022)
+
+- **SPAAM Seminar**, *University of Warwick* | Invited talk (Mar 2022)
 
 <br>
+---
+### 2021
 
-- **K. Pentland**, M. Tamborrino, D. Samaddar, and L.C. Appel. ["Stochastic parareal: an application of probabilistic methods to time-parallelisation."](https://epubs.siam.org/doi/10.1137/21M1414231) 2023. SIAM J. Sci. Comput. Vol. 45, No. 3, pp. S82-S102.
+- **Probabilistic Numerical Methods: From Theory to Implementation Workshop**, *Schloss Dagstuhl, Germany* | Attendee (Oct 2021)
 
+- **SIAM National Student Chapter Conference**, *University of Oxford* | Poster session (Jun 2021)
+
+- **MathSys Annual Conference**, *University of Warwick* | Three minute thesis - joint winner best 1st year talk (Apr 2021)
+
+- **Physics and Technology Seminar**, *CCFE, Oxford* | Invited talk (Mar 2021)
+
+- **MathSys Weekly Forum**, *University of Warwick* | Invited talk (Jan 2021)
+
+- **SPAAM Seminar**, *University of Warwick* | Invited talk (Jan 2021)
 
 <br>
+---
+### 2020
 
+- **MSc Project Talks**, *University of Warwick* | MSc talk (Sep 2020)
+
+- **Physics Seminar**, *CCFE, Oxford*| Invited talk (Jul 2020)
+
+<br>
+---
+### 2019
+
+- **MSc Project Talks**, *University College London* | MSc talk (Sep 2019)
+
+<br>
 ---
 
-Pre-prints of all works should be available on the [arXiv](https://arxiv.org/) - please get in contact if not.
-
-<br>
-
----
-
-> Latest update: 5th March 2023&nbsp;  
+> Latest update: 6th March 2023&nbsp;  
 
 <br>
