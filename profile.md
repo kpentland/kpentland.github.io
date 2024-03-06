@@ -45,17 +45,17 @@ ___
 ### Education
 
 2020 - 2023: **PhD Mathematics of Systems** | University of Warwick
-Thesis title: ["Towards probabilistic time-parallel algorithms for solving initial value problems"](file/proposal-2023.pdf).
+Thesis title: ["Towards probabilistic time-parallel algorithms for solving initial value problems"](file/Thesis_KP.pdf).
 Supervisors: [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/) and [Dr. Tim Sullivan](http://www.tjsullivan.org.uk/).
 
 2019 - 2020: **MSc Mathematics of Systems** | University of Warwick
-MSc thesis: "Hats and pancakes in the sky: high-speed droplet dynamics". 
+MSc thesis: ["Hats and pancakes in the sky: high-speed droplet dynamics"](file/MSc_Project.pdf). 
 Supervisors: [Dr. Radu Cimpeanu](https://www.raducimpeanu.com/) and [Dr. Ed Brambley](https://warwick.ac.uk/fac/sci/maths/people/staff/brambley/).
-MSc group project: "Stochastic parareal: an application of probabilistic methods to time-parallelisation". 
+MSc group project: "Stochastic parareal: an application of probabilistic methods to time-parallelisation" (see publications for paper). 
 Supervisors: [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/), Dr. Debasmita Samaddar (UKAEA), and Dr. Lynton Appel (UKAEA).
 
 2018 - 2019: **MSc Mathematical Modelling** | University College London
-MSc thesis: "Spin-down in the absence of reflected waves". 
+MSc thesis: ["Spin-down in the absence of reflected waves"](file/MSc_Project_KP.pdf). 
 Supervisor: [Prof. Edward Johnson](https://www.ucl.ac.uk/~ucaherj/).
 
 2013 - 2017 **BSc Mathematics with Industrial Placement** | University of Bath
