@@ -21,6 +21,8 @@ If you would like to meet or discuss any of the following, please get in contact
 ---
 ### 2023
 
+- **Pre-viva Talk**, *University of Warwick* | PhD viva (Nov 2023)
+
 - **ICIAM 2023 Minisymposium**, *Tokyo, Japan* | Invited talk (Aug 2023)
 
 - **BAMC 2023**, *Bristol, UK* | Poster session (Apr 2023)
