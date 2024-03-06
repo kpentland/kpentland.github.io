@@ -11,7 +11,8 @@ title: Profile
 ### Personal Information
 
 - **Name:** Kamran Pentland
-- **Current Position:** Computational Scientist - Culham Centre for Fusion Energy (UKAEA)
+- **Current Position:** Computational Scientist
+- **Institution:** Culham Centre for Fusion Energy (UKAEA)
 - **Address:** Culham Campus, Abingdon, Oxfordshire, OX14 3DB
 - **Email:** [kamran.pentland@ukaea.uk](mailto:kamran.pentland@ukaea.uk)
 
@@ -19,34 +20,21 @@ title: Profile
 
 ### Positions
 
-**Graduate Teaching Assistant**
-- **University:** University of Warwick
-- **Duration:** 2020 - 2021
-- **Courses:**
-  - Multivariable Calculus (MA259) and Mathematical Methods and Modelling (MA145) - 2022/23
-  - Stochastic Modelling and Random Processes (MA933), Brownian Motion (MA4F7), and Intro to PDEs (MA250) - 2021/22
-  - Intro to PDEs (MA250), Algorithms (CS260), and Introduction to Mathematical Biology (MA256) - 2020/21
-- **Additional Duties:** Exam marking and invigilation.
+**Graduate Teaching Assistant** \| University of Warwick (2020 - 2023)
+- **Courses:** Multivariable Calculus (MA259), Mathematical Methods and Modelling (MA145), Stochastic Modelling and Random Processes (MA933), Brownian Motion (MA4F7), Intro to PDEs (MA250), Algorithms (CS260), and Introduction to Mathematical Biology (MA256).
 
-**Mathematics Tutor**
-- **University:** Kings College London
-- **Duration:** 2020 - 2021
+**Mathematics Tutor** \| Kings College London (2020 - 2021)
 - **Courses:** Numerical and Computational Methods (6CCM359a) and Introduction to Dynamical Systems (4CCM131a).
 
-**Summer Research Internship**
-- **University:** University of Bath
-- **Duration:** 2017
-- **Project Title:** "Hybrid Methods for Simulating Reaction-Diffusion Systems"
-- **Supervisor:** [Dr. Christian Yates](https://www.kityates.com/)
+**Summer Research Internship** \| University of Bath (2017)
+- **Project Title:** "Hybrid Methods for Simulating Reaction-Diffusion Systems".
+- **Supervisor:** [Dr. Christian Yates](https://www.kityates.com/).
 
-**Mathematics Tutor**
-- **University:** University of Bath
-- **Duration:** 2016 - 2017
-- **Courses:** Programming and Discrete Mathematics (1st year)
+**Mathematics Tutor** \| University of Bath (2016 - 2017)
+- **Courses:** Programming and Discrete Mathematics (1st year).
 
-**Quantitative Market Risk Analyst**
-- **Company:** ConocoPhillips Ltd., London
-- **Duration:** 2015 - 2016
+**Quantitative Market Risk Analyst** \| ConocoPhillips Ltd. (2015 - 2016)
+
 
 ---
 
