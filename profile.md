@@ -4,37 +4,45 @@ permalink: profile/index.html
 title: Profile
 ---
 
-___
-### Personal Information
+## Personal Information
 
-- Name: Kamran Pentland
-- Current Position: Computational Scientist - Culham Centre for Fusion Energy (UKAEA)
-- Address: Culham Campus, Abingdon, Oxfordshire, OX14 3DB
-- Email: [kamran.pentland@ukaea.uk](mailto:kamran.pentland@ukaea.uk)
+- **Name:** Kamran Pentland
+- **Current Position:** Computational Scientist - Culham Centre for Fusion Energy (UKAEA)
+- **Address:** Culham Campus, Abingdon, Oxfordshire, OX14 3DB
+- **Email:** [kamran.pentland@ukaea.uk](mailto:kamran.pentland@ukaea.uk)
 
-<br>
+---
 
-___
+## Positions
 
-### Positions
+### Graduate Teaching Assistant
+- **University:** University of Warwick
+- **Duration:** 2020 - 2021
+- **Courses:**
+  - Multivariable Calculus (MA259) and Mathematical Methods and Modelling (MA145) - 2022/23
+  - Stochastic modelling and random processes (MA933), Brownian motion (MA4F7), and Intro to PDEs (MA250) - 2021/22
+  - Intro to PDEs (MA250), Algorithms (CS260), and Introduction to Mathematical Biology (MA256) - 2020/21
+- **Additional Duties:** Exam marking and invigilation.
 
-- 2020 - 2021: **Graduate Teaching Assistant** | University of Warwick
- - 2022/23: Multivariable Calculus (MA259) and Mathematical Methods and Modelling (MA145).
- - 2021/22: Stochastic modelling and random processes (MA933), Brownian motion (MA4F7), and Intro to PDEs (MA250).
- - 2020/21: Intro to PDEs (MA250), Algorithms (CS260), and Introduction to Mathematical Biology (MA256).
- - Additional duties: Exam marking and invigilation.
+### Mathematics Tutor
+- **University:** Kings College London
+- **Duration:** 2020 - 2021
+- **Courses:** Numerical and Computational Methods (6CCM359a) and Introduction to Dynamical Systems (4CCM131a).
 
-- 2020 - 2021: **Mathematics Tutor** | Kings College London
- - Teaching: Numerical and Computational Methods (6CCM359a) and Introduction to Dynamical Systems (4CCM131a).
+### Summer Research Internship
+- **University:** University of Bath
+- **Duration:** 2017
+- **Project Title:** "Hybrid methods for simulating reaction-diffusion systems"
+- **Supervisor:** [Dr. Christian Yates](https://www.kityates.com/)
 
-- 2017 - 2017: **Summer Research Internship** | University of Bath
-Project title: "Hybrid methods for simulating reaction-diffusion systems".
-Supervisor: [Dr. Christian Yates](https://www.kityates.com/).
+### Mathematics Tutor
+- **University:** University of Bath
+- **Duration:** 2016 - 2017
+- **Courses:** Programming and Discrete Mathematics (1st year)
 
-- 2016 - 2017: **Mathematics Tutor** | Univeristy of Bath
- - Teaching: Programming and Discrete Mathematics (1st year).
-
-- 2015 - 2016: **Quantitative Market Risk Analyst** | ConocoPhillips Ltd., London
+### Quantitative Market Risk Analyst
+- **Company:** ConocoPhillips Ltd., London
+- **Duration:** 2015 - 2016
 
 
 <br>
