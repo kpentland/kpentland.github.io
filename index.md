@@ -2,6 +2,8 @@
 layout: page
 ---
 
+---
+
 ### About Me
 
 I am currently working as a computational scientist in the plasma simulation group at the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/).
@@ -26,6 +28,8 @@ My research interests span a wide range of areas in computational mathematics, i
 Please feel to get in contact via [email](mailto:kamran.pentland@ukaea.uk) if you have questions about any of my research or are interested in collaboration!
 
 ---
+
+> Latest update: 6th March 2023&nbsp;  
 
 <!-- 
 
