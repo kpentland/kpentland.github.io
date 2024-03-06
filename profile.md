@@ -42,18 +42,18 @@ title: Profile
 
 **PhD Mathematics of Systems** \| University of Warwick (2020 - 2023)
   - **Thesis Title:** ["Towards Probabilistic Time-Parallel Algorithms for Solving Initial Value Problems"](file/Thesis_KP.pdf)
-  - **Supervisors:** [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/) and [Dr. Tim Sullivan](http://www.tjsullivan.org.uk/).
+    - **Supervisors:** [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/) and [Dr. Tim Sullivan](http://www.tjsullivan.org.uk/).
 
 **MSc Mathematics of Systems** \| University of Warwick (2019 - 2020)
   - **MSc Thesis:** ["Hats and Pancakes in the Sky: High-Speed Droplet Dynamics"](file/MSc_Project_KP.pdf)
-  - **Supervisors:** [Dr. Radu Cimpeanu](https://www.raducimpeanu.com/) and [Dr. Ed Brambley](https://warwick.ac.uk/fac/sci/maths/people/staff/brambley/)
+    - **Supervisors:** [Dr. Radu Cimpeanu](https://www.raducimpeanu.com/) and [Dr. Ed Brambley](https://warwick.ac.uk/fac/sci/maths/people/staff/brambley/)
   - **MSc Group Project:** "Stochastic Parareal: An Application of Probabilistic Methods to Time-Parallelisation" (see publications for paper)
-  - **Supervisors:** [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/), Dr. Debasmita Samaddar (UKAEA), and Dr. Lynton Appel (UKAEA)
+    - **Supervisors:** [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/), Dr. Debasmita Samaddar (UKAEA), and Dr. Lynton Appel (UKAEA)
   - **Interdisciplinary Report:** ["To What Extent Does Incorporating More Complexity into Models Make Them Less Informative?"](file/IM903_Report.pdf)
 
 **MSc Mathematical Modelling** \| University College London (2018 - 2019)
   - **MSc Thesis:** ["Spin-Down in the Absence of Reflected Waves"](file/MSc_Project.pdf)
-  - **Supervisor:** [Prof. Edward Johnson](https://www.ucl.ac.uk/~ucaherj/)
+    - **Supervisor:** [Prof. Edward Johnson](https://www.ucl.ac.uk/~ucaherj/)
 
 **BSc Mathematics with Industrial Placement** \| University of Bath (2013 - 2017)
   - **Industrial Placement Year:** Quantitative Market Risk Analyst at ConocoPhillips
