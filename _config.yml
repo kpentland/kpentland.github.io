@@ -6,7 +6,10 @@ url: https://kpentland.github.io/
 owner:
   name: Kamran Pentland
   avatar: profile.jpeg
-  bio: "Computational Scientist\nCulham Centre for Fusion Energy\nOxford, UK"
+  bio: >
+  Computational Scientist
+  Culham Centre for Fusion Energy
+  Oxford, UK
   email: kamran.pentland@ukaea.uk
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
