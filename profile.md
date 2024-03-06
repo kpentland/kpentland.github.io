@@ -9,7 +9,11 @@ ___
 ### Personal Information
 
 Name: Kamran Pentland
- - -
+
+<p style="margin: 0;">Your paragraph content here</p>
+
+<p style="margin: 0;">Your paragraph content here</p>
+
 
 Current Position: Computational Scientist - Culham Centre for Fusion Energy (UKAEA)
  - -
