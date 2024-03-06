@@ -6,7 +6,11 @@ url: https://kpentland.github.io/
 owner:
   name: Kamran Pentland
   avatar: profile.jpeg
-  bio: Computational Scientist
+  bio: >
+    Computational Scientist with expertise in data analysis,
+    machine learning, and scientific computing. Passionate
+    about solving complex problems and leveraging technology
+    to drive innovation and impact.
   email: kamran.pentland@ukaea.uk
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
