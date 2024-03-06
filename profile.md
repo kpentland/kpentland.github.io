@@ -7,7 +7,6 @@ title: Profile
 To be added. 
 
 ___
-<br>
 ### Personal Information
 
 Name: Kamran Pentland
@@ -18,9 +17,8 @@ Address: Culham Campus, Abingdon, Oxfordshire, OX14 3DB
 
 Email: [kamran.pentland@ukaea.uk](mailto:kamran.pentland@ukaea.uk)
 
-
-___
 <br>
+___
 ### Positions
 
 2017 - 2017: **Summer Research Internship** | University of Bath
@@ -32,13 +30,12 @@ Supervisor: [Dr. Christian Yates](https://www.kityates.com/).
 
 
 
-
-___
 <br>
+___
 ### Education
 
 2020 - 2023: **PhD Mathematics of Systems** | University of Warwick
-Thesis title: "Towards probabilistic time-parallel algorithms for solving initial value problems".
+Thesis title: ["Towards probabilistic time-parallel algorithms for solving initial value problems"](file/proposal-2023.pdf).
 Supervisors: [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/) and [Dr. Tim Sullivan](http://www.tjsullivan.org.uk/).
 
 2019 - 2020: **MSc Mathematics of Systems** | University of Warwick
@@ -53,8 +50,9 @@ Supervisor: [Prof. Edward Johnson](https://www.ucl.ac.uk/~ucaherj/).
 
 2013 - 2017 **BSc Mathematics with Industrial Placement** | University of Bath
 Industrial placement year: Quantitative market risk analyst at at ConocoPhillips.
-___
+
 <br>
+___
 
 ### Other academic positions
 
