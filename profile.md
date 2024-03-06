@@ -44,41 +44,33 @@ title: Profile
 - **Company:** ConocoPhillips Ltd., London
 - **Duration:** 2015 - 2016
 
-
 <br>
 ___
 ### Education
 
-- 2020 - 2023: **PhD Mathematics of Systems** | University of Warwick
-Thesis title: ["Towards probabilistic time-parallel algorithms for solving initial value problems"](file/Thesis_KP.pdf).
-Supervisors: [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/) and [Dr. Tim Sullivan](http://www.tjsullivan.org.uk/).
+- **PhD Mathematics of Systems** | University of Warwick (2020 - 2023)
+  - **Thesis title:** ["Towards probabilistic time-parallel algorithms for solving initial value problems"](file/Thesis_KP.pdf)
+  - **Supervisors:** [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/) and [Dr. Tim Sullivan](http://www.tjsullivan.org.uk/).
 
-- 2019 - 2020: **MSc Mathematics of Systems** | University of Warwick
-MSc thesis: ["Hats and pancakes in the sky: high-speed droplet dynamics"](file/MSc_Project_KP.pdf). 
-Supervisors: [Dr. Radu Cimpeanu](https://www.raducimpeanu.com/) and [Dr. Ed Brambley](https://warwick.ac.uk/fac/sci/maths/people/staff/brambley/).
-MSc group project: "Stochastic parareal: an application of probabilistic methods to time-parallelisation" (see publications for paper). 
-Supervisors: [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/), Dr. Debasmita Samaddar (UKAEA), and Dr. Lynton Appel (UKAEA).
-Interdisciplinary report: ["To what extent does incorporating more complexity into models make them less informative?"](file/IM903_Report.pdf). 
+- **MSc Mathematics of Systems** | University of Warwick (2019 - 2020)
+  - **MSc thesis:** ["Hats and pancakes in the sky: high-speed droplet dynamics"](file/MSc_Project_KP.pdf)
+  - **Supervisors:** [Dr. Radu Cimpeanu](https://www.raducimpeanu.com/) and [Dr. Ed Brambley](https://warwick.ac.uk/fac/sci/maths/people/staff/brambley/).
+  - **MSc group project:** "Stochastic parareal: an application of probabilistic methods to time-parallelisation" (see publications for paper).
+  - **Supervisors:** [Dr. Massimiliano Tamborrino](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/tamborrino/), Dr. Debasmita Samaddar (UKAEA), and Dr. Lynton Appel (UKAEA).
+  - **Interdisciplinary report:** ["To what extent does incorporating more complexity into models make them less informative?"](file/IM903_Report.pdf).
 
-- 2018 - 2019: **MSc Mathematical Modelling** | University College London
-MSc thesis: ["Spin-down in the absence of reflected waves"](file/MSc_Project.pdf). 
-Supervisor: [Prof. Edward Johnson](https://www.ucl.ac.uk/~ucaherj/).
+- **MSc Mathematical Modelling** | University College London (2018 - 2019)
+  - **MSc thesis:** ["Spin-down in the absence of reflected waves"](file/MSc_Project.pdf).
+  - **Supervisor:** [Prof. Edward Johnson](https://www.ucl.ac.uk/~ucaherj/).
 
-- 2013 - 2017 **BSc Mathematics with Industrial Placement** | University of Bath
-Industrial placement year: Quantitative market risk analyst at at ConocoPhillips.
+- **BSc Mathematics with Industrial Placement** | University of Bath (2013 - 2017)
+  - **Industrial placement year:** Quantitative market risk analyst at ConocoPhillips.
 
 <br>
 ___
 
-### Other academic positions
+### Other Academic Positions
 
-- 2021 - 2022: **SIAM Student Chapter President** | University of Warwick
+- **SIAM Student Chapter President** | University of Warwick (2021 - 2022)
 
-- 2017 - 2020: **Marking and Mentoring Volunteer** | UK Mathematics Trust
-
-
-
-
-
-
-
+- **Marking and Mentoring Volunteer** | UK Mathematics Trust (2017 - 2020)
