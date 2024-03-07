@@ -62,6 +62,8 @@ title: Profile
 
 ### Other Academic Positions
 
+- **Reviewer** \| Journal of Machine Learning Research (2023 - Present)
+
 - **SIAM Student Chapter President** \| University of Warwick (2021 - 2022)
 
 - **Marking and Mentoring Volunteer** \| UK Mathematics Trust (2017 - 2020)
