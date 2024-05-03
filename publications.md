@@ -9,7 +9,13 @@ title: Publications
 
 ---
 
-Please find below a complete list of my publications. 
+Please find below a complete list of my publications and pre-prints. 
+
+---
+
+### 2024
+
+- S. J. P. Pamela, N. Carey, J. Brandstetter, R. Akers, L. Zanisi1, J. Buchanan, V. Gopakumar, M. Hoelzl, G. Huijsmans, **K. Pentland**, T. James, G. Antonucci, and the JOREK Team. "Neural-Parareal: Dynamically Training Neural Operators as Coarse Solvers for Time-Parallelisation of Fusion MHD Simulations". 2024. [**arXiv**](https://arxiv.org/abs/2405.01355).
 
 ---
 
