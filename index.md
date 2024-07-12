@@ -19,8 +19,8 @@ Please head to my [**profile**](https://kpentland.github.io/profile/) page for a
 
 My research interests span a wide range of areas in computational mathematics and physics such as:
 
-* numerical integration (e.g. parallel-in-time methods)
-* surrogate modelling (e.g. Gaussian process emulation)
+* spatiotemporal numerical integration of ODEs/PDEs
+* emulation and surrogate modelling 
 * MHD equilibrium reconstruction and simulation
 * particle filtering/data assimilation
 * inference and uncertainty quantification
@@ -33,7 +33,7 @@ Please feel to get in contact viaÂ [**email**](mailto:kamran.pentland@ukaea.uk)Â
 
 ---
 
-> Latest update: 6th March 2023&nbsp;  
+> Latest update: 12th July 2024&nbsp;  
 
 <!-- 
 
