@@ -10,6 +10,7 @@ title: Talks
 
 ### 2024
 
+- **Computing Division Technical Talk** \| *UKAEA* - Invited talk (Jul 2024)
 - **ExCALIBUR: Data Driven Algorithm Workshops** \| *University of Exeter* - Invited talk (Jan 2024)
 
 ---
