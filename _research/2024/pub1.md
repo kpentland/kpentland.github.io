@@ -23,7 +23,7 @@ authors:
   - V. Gopakumar
   - M. Hoelzl
   - G. Huijsmans
-  - **K. Pentland**
+  - K. Pentland
   - T. James
   - G. Antonucci
   - The JOREK Team
