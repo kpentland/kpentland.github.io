@@ -1,0 +1,34 @@
+---
+title:          "Neural-Parareal: Dynamically Training Neural Operators as Coarse Solvers for Time-Parallelisation of Fusion MHD Simulations"
+selected:       true
+pub:            "arXiv"
+pub_date:       "2024"
+date:           2024-05-02 00:01:00 +0800  # so the site can order them correctly
+
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+
+abstract: >-
+  In this paper, we ...
+# $\LaTeX$ is supported. $a=b+c$.
+cover: /assets/images/covers/cover3.jpg
+authors:
+  - S. J. P. Pamela
+  - N. Carey
+  - J. Brandstetter
+  - R. Akers
+  - L. Zanisi
+  - J. Buchanan
+  - V. Gopakumar
+  - M. Hoelzl
+  - G. Huijsmans
+  - **K. Pentland**
+  - T. James
+  - G. Antonucci
+  - The JOREK Team
+links:
+  arXiv: https://arxiv.org/abs/2405.01355
+  # Code: https://github.com/luost26/academic-homepage
+  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+---
