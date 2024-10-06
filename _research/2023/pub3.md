@@ -1,22 +1,26 @@
 ---
-title:          "Publication without cover image"
-date:           2023-01-1 00:01:00 +0800
+title:          "Error bound analysis of the stochastic parareal algorithm"
 selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
+pub:            "SIAM Journal on Scientific Computing"
+pub_date:       "2023"
+date:           2023-10-06 00:01:00 +0800  # so the site can order them correctly
+
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2023"
 
 abstract: >-
-  When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
-# cover:          /assets/images/covers/cover3.jpg
+  In this paper, we ...
+# $\LaTeX$ is supported. $a=b+c$.
+cover: /assets/images/parareal.png
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - K. Pentland
+  - M. Tamborrino
+  - T. J. Sullivan
 links:
-  Code: https://github.com/luost26/bubble-visual-hash
-  Demo: https://luost26.github.io/bubble-visual-hash
+  Publication: https://epubs.siam.org/doi/abs/10.1137/22M1533062
+  arXiv: https://arxiv.org/abs/2211.05496
+  Code: https://github.com/kpentland/StochasticPararealAnalysis
 ---
+
+

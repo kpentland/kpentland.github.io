@@ -1,17 +1,27 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
-selected:       true
-pub:            "Nature Communications"
-pub_date:       "2023"
+title:          "Stochastic parareal: an application of probabilistic methods to time-parallelisation"
+selected:       false
+pub:            "SIAM Journal on Scientific Computing"
+pub_date:       "2022"
+date:           2022-07-07 00:01:00 +0800  # so the site can order them correctly
+
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+  In this paper, we ...
+# $\LaTeX$ is supported. $a=b+c$.
+cover: /assets/images/stoch_parareal.png
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+  - K. Pentland
+  - M. Tamborrino
+  - D. Samaddar
+  - L. C. Appel
 links:
-  Paper: https://www.cell.com
+  Publication: https://epubs.siam.org/doi/10.1137/21M1414231
+  arXiv: https://arxiv.org/abs/2106.10139
+  Code: https://github.com/kpentland/StochasticParareal
 ---
+
+
