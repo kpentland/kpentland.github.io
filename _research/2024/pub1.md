@@ -12,7 +12,7 @@ date:           2024-05-02 00:01:00 +0800  # so the site can order them correctl
 abstract: >-
   In this paper, we ...
 # $\LaTeX$ is supported. $a=b+c$.
-cover: /assets/images/covers/cover3.jpg
+cover: /assets/images/neural_parareal.png
 authors:
   - S. J. P. Pamela
   - N. Carey

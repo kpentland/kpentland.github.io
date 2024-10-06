@@ -12,7 +12,7 @@ date:           2024-07-17 00:01:00 +0800  # so the site can order them correctl
 abstract: >-
   In this paper, we validate the static forward ...
 # $\LaTeX$ is supported. $a=b+c$.
-cover: /assets/images/covers/cover3.jpg
+cover: /assets/images/machine_description.png
 authors:
   - K. Pentland
   - N. C. Amorisco
