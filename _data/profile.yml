@@ -1,6 +1,6 @@
 primary_name: "Kamran Pentland"
 secondary_name: ""
-navbar_name: "Dr Kamran Pentland"
+navbar_name: "Kamran Pentland"
 
 positions:
 # - logo: /assets/images/profile.jpeg  # Logo is optional
@@ -22,15 +22,26 @@ orcid: 0000-0001-9530-1890
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    This website is relatively new - please bear with me as I update things!
+    Hello!
   </p>
   <p>
-    More text here. 
+    I am a computational scientist working in the plasma simulation group at the <a href="https://ccfe.ukaea.uk/" target="_blank">United Kingdom Atomic Energy Authority</a>.
   </p>
+  <p>
+    I am interested in all sorts of mathematical modelling problems (regardless of the application) and often find myself working at the interface betweeb applied and computational mathematics. I have particular interests in:
+  </p>
+  <ul>
+  <li> Numerical integration for ODEs/PDEs. </li>
+  <li> Surrogate modelling (e.g. Gaussian processes). </li>
+  <li> Bayesian methods (e.g. data assimilation, optimisation). </li>
+  <li> Parallel-in-Time (PinT) methods. </li>
+  <li> High performance computing. </li>
+  <li> Multiscale/hybrid modelling problems. </li>
+</ul>
 
 portrait_url: /assets/images/profile.jpeg
 # portrait_caption: >-
-  # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  # Caption here.
 
 education:
 - name: University of Warwick 
@@ -53,8 +64,29 @@ education:
 experience:
 - name: United Kingdom Atomic Energy Authority (UKAEA)
   logo: /assets/images/ukaea.svg
-  position: Computational Scientist (Plasma Simulation Group)
+  position: Computational Scientist
   date: Oct. 2023 - Present
+
+- name: University of Warwick
+  logo: /assets/images/warwick.jpg
+  position: Graduate Teaching Assistant
+  date: Oct. 2020 - Sep. 2023 
+
+- name: University of Bath
+  logo: /assets/images/bath.svg
+  position: Summer Research Intern
+  date: Jun. 2017 - Sep. 2017 
+
+- name: University of Bath
+  logo: /assets/images/bath.svg
+  position: Mathematics Tutor
+  date: Sep. 2016 - Apr. 2017  
+ 
+- name: ConocoPhillips Ltd.
+  logo: /assets/images/conoco_phillips.png
+  position: Quantitative Market Risk Analyst
+  date: Jul. 2015 - Jul. 2016
+
 
 # awards:
 # - name: Award Name 2
