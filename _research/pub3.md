@@ -12,7 +12,7 @@ date:           2022-07-07 00:01:00 +0800  # so the site can order them correctl
 abstract: >-
   In this paper, we ...
 # $\LaTeX$ is supported. $a=b+c$.
-cover: /assets/images/sparareal.pdf
+cover: /assets/images/sparareal.png
 authors:
   - K. Pentland
   - M. Tamborrino
@@ -22,6 +22,7 @@ links:
   Publication: https://epubs.siam.org/doi/10.1137/21M1414231
   arXiv: https://arxiv.org/abs/2106.10139
   Code: https://github.com/kpentland/StochasticParareal
+  Poster: /assets/docs/sparareal_poster.pdf
 ---
 
 

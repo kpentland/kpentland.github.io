@@ -23,6 +23,7 @@ links:
   Publication: https://link.springer.com/article/10.1007/s11222-022-10195-y
   arXiv: https://arxiv.org/abs/2201.13418
   Code: https://github.com/kpentland/GParareal
+  Poster: /assets/docs/gparareal_poster.pdf
 ---
 
 
