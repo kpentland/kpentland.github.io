@@ -3,10 +3,9 @@ secondary_name: ""
 navbar_name: "Kamran Pentland"
 
 positions:
-# - logo: /assets/images/profile.jpeg  # Logo is optional
+  # - logo: /assets/images/profile.jpeg  # Logo is optional
   # name: Position 1 with logo
-- name: Computational Scientist at <a href="https://ccfe.ukaea.uk/" target="_blank">UKAEA</a>
-
+- name: "Computational Scientist at [UKAEA](https://ccfe.ukaea.uk/)"
 
 email: "kamran.pentland@ukaea.uk"
 # cv_link: link-to-your-cv-file
@@ -28,7 +27,7 @@ short_bio: >-
     I am a computational scientist working in the plasma simulation group at the <a href="https://ccfe.ukaea.uk/" target="_blank">United Kingdom Atomic Energy Authority</a>.
   </p>
   <p>
-    I am interested in all sorts of mathematical modelling problems (regardless of the application) and often find myself working at the interface betweeb applied and computational mathematics. I have particular interests in:
+    I am interested in all sorts of mathematical modelling problems (regardless of the application) and often find myself working at the interface between applied and computational mathematics. I have particular interests in:
   </p>
   <ul>
   <li> Numerical integration for ODEs/PDEs. </li>
@@ -37,28 +36,28 @@ short_bio: >-
   <li> Parallel-in-Time (PinT) methods. </li>
   <li> High performance computing. </li>
   <li> Multiscale/hybrid modelling problems. </li>
-</ul>
+  </ul>
 
 portrait_url: /assets/images/profile.jpeg
 # portrait_caption: >-
-  # Caption here.
+#   Caption here.
 
 education:
 - name: University of Warwick 
   logo: /assets/images/warwick.jpg
-  position: Ph.D. Mathematics of Real-World Systems
-  date: Sep. 2020 - Sep 2023
+  position: Ph.D. in Mathematics of Real-World Systems
+  date: Sep. 2020 - Sep. 2023
 - name: University of Warwick
   logo: /assets/images/warwick.jpg
-  position: MSc Mathematics of Real-World Systems
+  position: MSc in Mathematics of Real-World Systems
   date: Sep. 2019 - Sep. 2020
 - name: University College London
   logo: /assets/images/ucl.svg
-  position: MSc Mathematical Modelling
+  position: MSc in Mathematical Modelling
   date: Sep. 2018 - Sep. 2019
 - name: University of Bath
   logo: /assets/images/bath.svg
-  position: BSc Mathematics with Industrial Placement Year
+  position: BSc in Mathematics with Industrial Placement Year
   date: Sep. 2013 - Jul. 2017
 
 experience:
@@ -81,12 +80,11 @@ experience:
   logo: /assets/images/bath.svg
   position: Mathematics Tutor
   date: Sep. 2016 - Apr. 2017  
- 
+
 - name: ConocoPhillips Ltd.
   logo: /assets/images/conoco_phillips.png
   position: Quantitative Market Risk Analyst
   date: Jul. 2015 - Jul. 2016
-
 
 # awards:
 # - name: Award Name 2
