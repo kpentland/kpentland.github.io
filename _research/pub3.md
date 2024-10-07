@@ -12,7 +12,7 @@ date:           2022-07-07 00:01:00 +0800  # so the site can order them correctl
 abstract: >-
   In this paper, we ...
 # $\LaTeX$ is supported. $a=b+c$.
-cover: /assets/images/stoch_parareal.png
+cover: /assets/images/sparareal.pdf
 authors:
   - K. Pentland
   - M. Tamborrino
