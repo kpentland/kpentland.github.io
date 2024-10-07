@@ -5,7 +5,7 @@ navbar_name: "Kamran Pentland"
 positions:
   # - logo: /assets/images/profile.jpeg  # Logo is optional
   # name: Position 1 with logo
-- name: "Computational Scientist at [UKAEA](https://ccfe.ukaea.uk/)"
+# - name: Computational Scientist at <a href="https://ccfe.ukaea.uk/" target="_blank">UKAEA</a>
 
 email: "kamran.pentland@ukaea.uk"
 # cv_link: link-to-your-cv-file
@@ -32,11 +32,14 @@ short_bio: >-
   <ul>
   <li> Numerical integration for ODEs/PDEs. </li>
   <li> Surrogate modelling (e.g. Gaussian processes). </li>
-  <li> Bayesian methods (e.g. data assimilation, optimisation). </li>
+  <li> Bayesian methods (e.g. data assimilation, optimisation, UQ). </li>
   <li> Parallel-in-Time (PinT) methods. </li>
   <li> High performance computing. </li>
   <li> Multiscale/hybrid modelling problems. </li>
   </ul>
+  <p>
+    Do get in contact if you'd like to discuss any of my research or are interested in collaboration! 
+  </p>
 
 portrait_url: /assets/images/profile.jpeg
 # portrait_caption: >-
@@ -70,6 +73,11 @@ experience:
   logo: /assets/images/warwick.jpg
   position: Graduate Teaching Assistant
   date: Oct. 2020 - Sep. 2023 
+
+- name: Kings College London
+  logo: /assets/images/kcl.svg
+  position: Graduate Mathematics Tutor
+  date: Oct. 2020 - Apr. 2021
 
 - name: University of Bath
   logo: /assets/images/bath.svg
