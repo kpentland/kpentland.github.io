@@ -2,7 +2,7 @@
 title:          "GParareal: a time-parallel ODE solver using Gaussian process emulation"
 selected:       true
 pub:            "Statistics and Computing"
-pub_date:       "2023"
+# pub_date:       "2023"
 date:           2023-01-02 00:01:00 +0800  # so the site can order them correctly
 
 # pub_pre:        "Submitted to "

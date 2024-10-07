@@ -1,9 +1,9 @@
 ---
-title:          "Neural-Parareal: Dynamically Training Neural Operators as Coarse Solvers for Time-Parallelisation of Fusion MHD Simulations"
-selected:       true
-pub:            "Computer Physics Communications"
-pub_date:       "2024"
-date:           2024-10-06 00:01:00 +0800  # so the site can order them correctly
+title:          "Towards probabilistic time-parallel algorithms for solving initial value problems"
+selected:       false
+pub:            "PhD Thesis"
+# pub_date:       "2023"
+date:           2023-11-08 00:01:00 +0800  # so the site can order them correctly
 
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -12,24 +12,13 @@ date:           2024-10-06 00:01:00 +0800  # so the site can order them correctl
 abstract: >-
   In this paper, we ...
 # $\LaTeX$ is supported. $a=b+c$.
-cover: /assets/images/neural_parareal.png
+cover: /assets/images/parareal.png
 authors:
-  - S. J. P. Pamela
-  - N. Carey
-  - J. Brandstetter
-  - R. Akers
-  - L. Zanisi
-  - J. Buchanan
-  - V. Gopakumar
-  - M. Hoelzl
-  - G. Huijsmans
   - K. Pentland
-  - T. James
-  - G. Antonucci
-  - The JOREK Team
 links:
-  # Publication: https://link.springer.com/article/10.1007/s11222-022-10195-y
-  arXiv: https://arxiv.org/abs/2405.01355
-  # Code: https://github.com/luost26/academic-homepage
-  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Thesis: /assets/docs/thesis.pdf
+  # arXiv: https://arxiv.org/abs/2211.05496
+  # Code: https://github.com/kpentland/StochasticPararealAnalysis
 ---
+
+

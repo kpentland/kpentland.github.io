@@ -2,7 +2,7 @@
 title:          "Stochastic parareal: an application of probabilistic methods to time-parallelisation"
 selected:       false
 pub:            "SIAM Journal on Scientific Computing"
-pub_date:       "2022"
+# pub_date:       "2022"
 date:           2022-07-07 00:01:00 +0800  # so the site can order them correctly
 
 # pub_pre:        "Submitted to "

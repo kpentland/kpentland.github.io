@@ -2,7 +2,7 @@
 title:          "Error bound analysis of the stochastic parareal algorithm"
 selected:       false
 pub:            "SIAM Journal on Scientific Computing"
-pub_date:       "2023"
+# pub_date:       "2023"
 date:           2023-10-06 00:01:00 +0800  # so the site can order them correctly
 
 # pub_pre:        "Submitted to "
