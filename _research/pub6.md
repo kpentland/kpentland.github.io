@@ -17,8 +17,7 @@ authors:
   - K. Pentland
 links:
   Thesis: /assets/docs/thesis.pdf
-  # arXiv: https://arxiv.org/abs/2211.05496
-  # Code: https://github.com/kpentland/StochasticPararealAnalysis
+  Talk: /assets/docs/thesis_talk.pdf
 ---
 
 

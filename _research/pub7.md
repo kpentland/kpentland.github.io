@@ -2,7 +2,7 @@
 title:          "Neural-Parareal: dynamically training neural operators as coarse solvers for time-parallelisation of fusion MHD simulations"
 selected:       true
 pub:            "Computer Physics Communications"
-pub_date:       "2024"
+# pub_date:       "2024"
 date:           2024-10-06 00:01:00 +0800  # so the site can order them correctly
 
 # pub_pre:        "Submitted to "

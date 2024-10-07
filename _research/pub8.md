@@ -2,7 +2,7 @@
 title:          "Validation of the static forward Grad-Shafranov equilibrium solvers in FreeGSNKE and Fiesta using EFIT++ reconstructions from MAST-U"
 selected:       true
 pub:            "arXiv"
-pub_date:       "2024"
+# pub_date:       "2024"
 date:           2024-10-10 00:01:00 +0800  # so the site can order them correctly
 
 # pub_pre:        "Submitted to "
@@ -30,5 +30,6 @@ links:
   # Publication: https://link.springer.com/article/10.1007/s11222-022-10195-y
   arXiv: https://arxiv.org/abs/2407.12432
   # Code: https://github.com/luost26/academic-homepage
-  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Talk: /assets/docs/freegsnke_validation.pdf
+
 ---

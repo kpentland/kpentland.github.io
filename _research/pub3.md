@@ -23,6 +23,7 @@ links:
   arXiv: https://arxiv.org/abs/2106.10139
   Code: https://github.com/kpentland/StochasticParareal
   Poster: /assets/docs/sparareal_poster.pdf
+  Talk: /assets/docs/sparareal_talk.pdf
 ---
 
 

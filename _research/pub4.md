@@ -24,6 +24,7 @@ links:
   arXiv: https://arxiv.org/abs/2201.13418
   Code: https://github.com/kpentland/GParareal
   Poster: /assets/docs/gparareal_poster.pdf
+  Talk: /assets/docs/gparareal_talk.pdf
 ---
 
 
