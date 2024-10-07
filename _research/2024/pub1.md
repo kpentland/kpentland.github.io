@@ -1,9 +1,9 @@
 ---
 title:          "Neural-Parareal: Dynamically Training Neural Operators as Coarse Solvers for Time-Parallelisation of Fusion MHD Simulations"
 selected:       true
-pub:            "arXiv"
+pub:            "Computer Physics Communications"
 pub_date:       "2024"
-date:           2024-05-02 00:01:00 +0800  # so the site can order them correctly
+date:           2024-10-06 00:01:00 +0800  # so the site can order them correctly
 
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -28,6 +28,7 @@ authors:
   - G. Antonucci
   - The JOREK Team
 links:
+  # Publication: https://link.springer.com/article/10.1007/s11222-022-10195-y
   arXiv: https://arxiv.org/abs/2405.01355
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk

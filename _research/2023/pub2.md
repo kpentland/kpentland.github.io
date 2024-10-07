@@ -12,7 +12,7 @@ date:           2023-01-02 00:01:00 +0800  # so the site can order them correctl
 abstract: >-
   In this paper, we ...
 # $\LaTeX$ is supported. $a=b+c$.
-cover: /assets/images/GParareal.svg
+cover: /assets/images/FNH5.png
 authors:
   - K. Pentland
   - M. Tamborrino
