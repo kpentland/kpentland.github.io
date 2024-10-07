@@ -1,34 +1,26 @@
 ---
-title:          "Validation of the static forward Grad-Shafranov equilibrium solvers in FreeGSNKE and Fiesta using EFIT++ reconstructions from MAST-U"
-selected:       true
-pub:            "arXiv"
-pub_date:       "2024"
-date:           2024-10-10 00:01:00 +0800  # so the site can order them correctly
+title:          "Error bound analysis of the stochastic parareal algorithm"
+selected:       false
+pub:            "SIAM Journal on Scientific Computing"
+pub_date:       "2023"
+date:           2023-10-06 00:01:00 +0800  # so the site can order them correctly
 
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 
 abstract: >-
-  In this paper, we validate the static forward ...
+  In this paper, we ...
 # $\LaTeX$ is supported. $a=b+c$.
-cover: /assets/images/machine_description.png
+cover: /assets/images/F1c.png
 authors:
   - K. Pentland
-  - N. C. Amorisco
-  - O. El-Zobaidi
-  - S. Etches
-  - A. Agnello
-  - G. K. Holt
-  - C. Vincent
-  - J. Buchanan
-  - S. J. P. Pamela
-  - G. McArdle
-  - L. Kogan
-  - G. Cunningham
+  - M. Tamborrino
+  - T. J. Sullivan
 links:
-  Publication: https://link.springer.com/article/10.1007/s11222-022-10195-y
-  arXiv: https://arxiv.org/abs/2407.12432
-  # Code: https://github.com/luost26/academic-homepage
-  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Publication: https://epubs.siam.org/doi/abs/10.1137/22M1533062
+  arXiv: https://arxiv.org/abs/2211.05496
+  Code: https://github.com/kpentland/StochasticPararealAnalysis
 ---
+
+

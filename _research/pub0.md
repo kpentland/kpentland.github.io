@@ -1,9 +1,9 @@
 ---
-title:          "A blending hybrid model for representing reaction-diffusion equations"
+title:          "A blending hybrid model for simulating reaction-diffusion equations"
 selected:       false
-pub:            "Summer Research Project"
+pub:            "Undergraduate Summer Research Project"
 # pub_date:       "2022"
-date:           207-09-01 00:01:00 +0800  # so the site can order them correctly
+date:           2017-09-01 00:01:00 +0800  # so the site can order them correctly
 
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -21,5 +21,3 @@ links:
   # arXiv: https://arxiv.org/abs/2106.10139
   # Code: https://github.com/kpentland/StochasticParareal
 ---
-
-

@@ -1,27 +1,23 @@
 ---
-title:          "Stochastic parareal: an application of probabilistic methods to time-parallelisation"
+title:          "Spin-down in the absence of reflected waves"
 selected:       false
-pub:            "SIAM Journal on Scientific Computing"
-pub_date:       "2022"
-date:           2022-07-07 00:01:00 +0800  # so the site can order them correctly
-
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub:            "MSc Project"
+# pub_date:       "2022"
+date:           2019-09-01 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-
-  In this paper, we ...
+  In this research project, we investigated ...
 # $\LaTeX$ is supported. $a=b+c$.
-cover: /assets/images/stoch_parareal.png
+
+cover: /assets/images/spin_down.png
+
 authors:
   - K. Pentland
-  - M. Tamborrino
-  - D. Samaddar
-  - L. C. Appel
+  - E. Johnson
+
 links:
-  Publication: https://epubs.siam.org/doi/10.1137/21M1414231
-  arXiv: https://arxiv.org/abs/2106.10139
-  Code: https://github.com/kpentland/StochasticParareal
+  Report: /assets/docs/spin_down_report.pdf
+  Presentation: /assets/docs/spin_down_pres.pdf
+  # arXiv: https://arxiv.org/abs/2106.10139
+  # Code: https://github.com/kpentland/StochasticParareal
 ---
-
-
