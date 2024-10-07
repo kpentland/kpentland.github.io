@@ -15,7 +15,7 @@ abstract: >-
 cover: /assets/images/blending.jpg
 authors:
   - K. Pentland
-  - C. Yates
+  - C. A. Yates
 links:
   Presentation: /assets/docs/blending_presentation.pdf
   # arXiv: https://arxiv.org/abs/2106.10139
