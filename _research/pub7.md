@@ -5,7 +5,7 @@ pub:            "Computer Physics Communications"
 date:           2024-10-06 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-
-  In this project, we developed the Neural-Parareal framework to enhance the efficiency of time-parallel simulations for fusion research by integrating neural operators that dynamically train as new data becomes available. 
+  In this paper, we developed the Neural-Parareal framework to enhance the efficiency of time-parallel simulations for fusion research by integrating neural operators that dynamically train as new data becomes available. 
   This approach replaces traditional coarse-solvers with neural network surrogates, leading to progressively more accurate predictions and significant speed-ups in the parareal simulations. 
   Our findings demonstrate the effective convergence of high-performance computing and artificial intelligence, advocating for their common use in digital engineering design.
 

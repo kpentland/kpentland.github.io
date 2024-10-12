@@ -5,7 +5,7 @@ pub:            "SIAM Journal on Scientific Computing"
 date:           2022-07-07 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-
-  In this project, we introduced a stochastic variant of the parareal algorithm to speed up its convergence when solving time-dependent differential equations. 
+  In this paper, we introduced a stochastic variant of the parareal algorithm to speed up its convergence when solving time-dependent differential equations. 
   By sampling initial values from dynamically varying probability distributions and selecting the smoothest trajectories in time, the algorithm converges in fewer iterations compared to the traditional deterministic approach. 
   Our results show that stochastic parareal reduces iteration counts while maintaining accuracy, with potential to capture uncertainty in the solution.
 
