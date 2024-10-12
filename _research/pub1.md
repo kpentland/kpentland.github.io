@@ -2,7 +2,6 @@
 title:          "Spin-down in the absence of reflected waves"
 selected:       false
 pub:            "MSc Project"
-# pub_date:       "2022"
 date:           2019-09-01 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-

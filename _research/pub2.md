@@ -2,12 +2,13 @@
 title:          "Hats and pancakes in the sky: high-speed droplet dynamics"
 selected:       false
 pub:            "MSc Project"
-# pub_date:       "2022"
 date:           2020-09-11 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-
-  In this research project, we investigated ...
+  In this project, we explored improvements to an existing model that predicts the trajectory and deformation of water droplets impacting aircraft surfaces, focusing on the critical effects of high-speed airflows. Using sensitivity analysis and high-resolution direct numerical simulations (DNS), we identified key influencing parameters and improved the accuracy of the model. Our results highlight the potential of DNS for more precise simulation of droplet behavior in complex flow conditions.
 # $\LaTeX$ is supported. $a=b+c$.
+
+pub_last:       <span class="badge badge-info">Direct numerical simulations</span> <span class="badge badge-info">Multiscale modelling</span> <span class="badge badge-info">Two-phase fluids</span>
 
 cover: /assets/images/droplets.png
 
