@@ -29,7 +29,7 @@ authors:
   - The JOREK Team
 
 links:
-  # Publication: https://link.springer.com/article/10.1007/s11222-022-10195-y
+  Publication: https://www.sciencedirect.com/science/article/pii/S001046552400314X?dgcid=coauthor
   arXiv: https://arxiv.org/abs/2405.01355
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
