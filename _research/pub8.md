@@ -33,6 +33,7 @@ links:
   # Publication: https://link.springer.com/article/10.1007/s11222-022-10195-y
   arXiv: https://arxiv.org/abs/2407.12432
   # Code: https://github.com/luost26/academic-homepage
+  Poster: /assets/docs/freegsnke_validation_poster.pdf
   Talk: /assets/docs/freegsnke_validation.pdf
 
 ---
