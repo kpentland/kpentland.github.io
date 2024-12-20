@@ -1,7 +1,7 @@
 ---
 title:          "Validation of the static forward Grad-Shafranov equilibrium solvers in FreeGSNKE and Fiesta using EFIT++ reconstructions from MAST-U"
 selected:       true
-pub:            "arXiv"
+pub:            "Physica Scripta"
 date:           2024-10-10 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-
@@ -22,6 +22,7 @@ authors:
   - S. Etches
   - A. Agnello
   - G. K. Holt
+  - A. Ross
   - C. Vincent
   - J. Buchanan
   - S. J. P. Pamela
@@ -30,10 +31,12 @@ authors:
   - G. Cunningham
 
 links:
-  # Publication: https://link.springer.com/article/10.1007/s11222-022-10195-y
+  Publication: https://iopscience.iop.org/article/10.1088/1402-4896/ada192
   arXiv: https://arxiv.org/abs/2407.12432
   # Code: https://github.com/luost26/academic-homepage
   Poster: /assets/docs/freegsnke_validation_poster.pdf
   Talk: /assets/docs/freegsnke_validation.pdf
+
+
 
 ---
