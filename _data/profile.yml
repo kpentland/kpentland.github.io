@@ -28,6 +28,7 @@ short_bio: >-
   </p>
   <ul>
   <li> Numerical integration for ODEs/PDEs. </li>
+  <li> MHD equilibrium modelling. </li>
   <li> Surrogate modelling (e.g. Gaussian processes). </li>
   <li> Bayesian methods (e.g. data assimilation, optimisation, UQ). </li>
   <li> Parallel-in-Time (PinT) methods. </li>
