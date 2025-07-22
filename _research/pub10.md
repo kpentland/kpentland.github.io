@@ -18,7 +18,7 @@ authors:
   - J. Buchanan
 
 links:
-  # Publication: https://iopscience.iop.org/article/10.1088/1402-4896/ada192
+  Publication: https://pubs.aip.org/aip/pop/article/32/7/072507/3355562
   arXiv: https://arxiv.org/abs/2503.17189
   # Code: https://github.com/luost26/academic-homepage
   # Poster: /assets/docs/freegsnke_validation_poster.pdf
