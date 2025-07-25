@@ -33,7 +33,7 @@ authors:
 links:
   Publication: https://iopscience.iop.org/article/10.1088/1402-4896/ada192
   arXiv: https://arxiv.org/abs/2407.12432
-  # Code: https://github.com/luost26/academic-homepage
+  Code: https://doi.org/10.14468/26m5-ey02
   Poster: /assets/docs/freegsnke_validation_poster.pdf
   Talk: /assets/docs/freegsnke_validation.pdf
 

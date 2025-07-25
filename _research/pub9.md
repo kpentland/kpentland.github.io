@@ -18,9 +18,9 @@ authors:
   - C. J. Ham
 
 links:
-  # Publication: https://iopscience.iop.org/article/10.1088/1402-4896/ada192
+  Publication: https://iopscience.iop.org/article/10.1088/1741-4326/adf3cc
   arXiv: https://arxiv.org/abs/2503.05674
-  # Code: https://github.com/luost26/academic-homepage
+  Code: https://opendata.ukaea.uk/doi/?id=bqts-4g67&br=2025
   # Poster: /assets/docs/freegsnke_validation_poster.pdf
   # Talk: /assets/docs/freegsnke_validation.pdf
 
