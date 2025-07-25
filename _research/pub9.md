@@ -1,7 +1,7 @@
 ---
 title:          "Multiple solutions to the static forward free-boundary Grad-Shafranov problem on MAST-U"
 selected:       true
-pub:            "arXiv"
+pub:            "Nuclear Fusion"
 date:           2025-03-10 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-

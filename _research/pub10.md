@@ -1,7 +1,7 @@
 ---
 title:          "Bayesian optimisation of poloidal field coil positions in tokamaks"
 selected:       true
-pub:            "arXiv"
+pub:            "Physics of Plasmas"
 date:           2025-03-24 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-
