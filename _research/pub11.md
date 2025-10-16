@@ -1,7 +1,7 @@
 ---
 title:          "Real-time applicability of emulated virtual circuits for tokamak plasma shape control"
 selected:       true
-pub:            "IEEE Conference on Control Technology and Applications"
+pub:            "2025 IEEE Conference on Control Technology and Applications"
 date:           2025-05-15 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-
@@ -22,7 +22,7 @@ authors:
   - J. Buchanan
 
 links:
-  # Publication: https://pubs.aip.org/aip/pop/article/32/7/072507/3355562
+  Publication: https://ieeexplore.ieee.org/document/11151371
   arXiv: https://arxiv.org/abs/2509.01789
   # Code: https://github.com/luost26/academic-homepage
   # Poster: /assets/docs/freegsnke_validation_poster.pdf
