@@ -1,5 +1,21 @@
 ---
 layout: default
+title: Talks Debug
+---
+
+<h1>Debug Talks</h1>
+
+Total talks: {{ site.talks | size }}
+
+<ul>
+{% for item in site.talks %}
+  <li>{{ item.title }} — {{ item.date }} — {{ item.event }}</li>
+{% endfor %}
+</ul>
+
+<!-- 
+---
+layout: default
 title: Talks
 navbar_title: Talks
 body_attr: >-
@@ -27,4 +43,4 @@ body_attr: >-
             {% endfor %}
         </div>
     </div>
-</div>
+</div> -->
