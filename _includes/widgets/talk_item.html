@@ -1,0 +1,21 @@
+<div class="p-3 {% unless include.hide_bottom_border %}border-bottom{% endunless %}">
+    <h5 class="mb-1">{{ include.item.title }}</h5>
+
+    <p class="mb-1 text-muted">
+        {{ include.item.event }},
+        {{ include.item.location }},
+        {{ include.item.date | date: "%B %Y" }}
+    </p>
+
+    {% if include.item.description %}
+    <p class="mb-1">{{ include.item.description }}</p>
+    {% endif %}
+
+    {% if include.item.slides %}
+    <a href="{{ include.item.slides }}" target="_blank">Slides</a>
+    {% endif %}
+
+    {% if include.item.video %}
+    | <a href="{{ include.item.video }}" target="_blank">Video</a>
+    {% endif %}
+</div>
