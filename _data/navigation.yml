@@ -3,7 +3,7 @@ pages:
   url: /
 - name: Research
   url: /research
-# - name: Talks
-#   url: /talks
+- name: Talks
+  url: /talks
 # - name: Showcase
 #   url: /showcase
