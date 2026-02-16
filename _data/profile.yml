@@ -27,8 +27,9 @@ short_bio: >-
     I am interested in all sorts of mathematical modelling problems (regardless of the application) and often find myself working at the interface between applied and computational mathematics. I have particular interests in:
   </p>
   <ul>
-  <li> Numerical integration for ODEs/PDEs. </li>
   <li> MHD equilibrium modelling. </li>
+  <li> Tokamak plasma control. </li>
+  <li> Numerical integration for ODEs/PDEs. </li>
   <li> Surrogate modelling (e.g. Gaussian processes). </li>
   <li> Bayesian methods (e.g. data assimilation, optimisation, UQ). </li>
   <li> Parallel-in-Time (PinT) methods. </li>
