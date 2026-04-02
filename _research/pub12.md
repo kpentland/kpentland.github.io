@@ -9,7 +9,7 @@ abstract: >-
 
 pub_last:       <span class="badge badge-info">Pulse design tool</span> <span class="badge badge-info">Plasma control system</span> <span class="badge badge-info">Grad-Shafranov</span> <span class="badge badge-info">MHD equilibria</span> <span class="badge badge-info">FreeGSNKE</span> <span class="badge badge-info">MAST-U</span>
 
-cover: /assets/images/FPDT.png
+cover: /assets/images/FPDT.pdf
 
 authors:
   - K. Pentland
