@@ -1,5 +1,6 @@
 ---
 title: "GParareal: a time-parallel ODE solver using Gaussian process emulation"
+type: "Invited Talk"
 event: "Heilbronn ProbNum Workshop"
 location: "London, UK"
 date: 2022-03-02

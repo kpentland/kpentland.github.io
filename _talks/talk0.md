@@ -1,5 +1,6 @@
 ---
 title: "Spin-down in the absence of reflected waves"
+type: "Talk"
 event: "MSc Project Talks"
 location: "University College London, UK"
 date: 2019-09-01

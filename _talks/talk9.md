@@ -1,5 +1,6 @@
 ---
 title: "GParareal: a time-parallel ODE solver using Gaussian process emulation"
+type: "Invited Talk"
 event: "APinTA Kick-Off Meeting"
 location: "University of Exeter, UK"
 date: 2022-06-01

@@ -1,5 +1,6 @@
 ---
 title: "GParareal: a time-parallel ODE solver using Gaussian process emulation"
+type: "Invited Talk"
 event: "Exascale Computing Challenges: PinT Algorithms"
 location: "University of Exeter, UK"
 date: 2023-01-01

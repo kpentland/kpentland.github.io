@@ -1,5 +1,6 @@
 ---
 title: "GParareal: GPs for parallel-in-time simulation"
+type: "Invited Talk"
 event: "ExCALIBUR: Data Driven Algorithms"
 location: "University of Exeter, UK"
 date: 2024-01-01

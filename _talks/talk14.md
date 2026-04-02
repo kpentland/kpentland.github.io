@@ -1,5 +1,6 @@
 ---
 title: "Validation of the static forward Grad-Shafranov equilibrium solvers in FreeGSNKE and Fiesta using EFIT++ reconstructions from MAST-U"
+type: "Talk"
 event: "Computing Division Technical Talks"
 location: "UKAEA"
 date: 2024-07-01

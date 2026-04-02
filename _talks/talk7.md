@@ -1,5 +1,6 @@
 ---
 title: "GParareal: a time-parallel ODE solver using Gaussian process emulation"
+type: "Invited Talk"
 event: "Algorithms and Computationally Intensive Inference Seminar"
 location: "University of Warwick, UK"
 date: 2022-03-01

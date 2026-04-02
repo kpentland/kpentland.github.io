@@ -1,5 +1,6 @@
 ---
 title: "Ongoing progress with FreeGSNKE development"
+type: "Talk"
 event: "Fusion Computing Lab Workshop"
 location: "STFC Hartree Centre, Daresbury, UK"
 date: 2025-10-02

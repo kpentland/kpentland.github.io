@@ -1,6 +1,6 @@
 ---
 title: "GParareal: a time-parallel ODE solver using Gaussian process emulation"
-type: "Poster presentation"
+type: "Poster Presentation"
 event: "11th Workshop on Parallel-in-Time Integration"
 location: "Centre International de Rencontres Mathematiques, Marseille, France"
 date: 2022-07-01

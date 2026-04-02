@@ -1,5 +1,6 @@
 ---
 title: "Hats and pancakes in the sky: high-speed droplet dynamics"
+type: "Talk"
 event: "MSc Project Talks"
 location: "University of Warwick, UK"
 date: 2020-09-01

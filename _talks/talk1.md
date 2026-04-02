@@ -1,5 +1,6 @@
 ---
 title: "Stochastic parareal: an application of probabilistic methods to time-parallelisation"
+type: "Talk"
 event: "Physics Seminar"
 location: "Culham Centre for Fusion Energy, UK"
 date: 2020-07-01

@@ -1,6 +1,6 @@
 ---
 title: "GParareal: a time-parallel ODE solver using Gaussian process emulation"
-type: "Poster presentation"
+type: "Poster Presentation"
 event: "Culham Plasma Physics Summer School"
 location: "Culham Centre for Fusion Energy, UK"
 date: 2022-07-02

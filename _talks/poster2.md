@@ -1,6 +1,6 @@
 ---
 title: "GParareal: a time-parallel ODE solver using Gaussian process emulation"
-type: "Poster presentation"
+type: "Poster Presentation"
 event: "British Applied Mathematics Colloquium"
 location: "University of Loughborough, UK"
 date: 2022-04-01

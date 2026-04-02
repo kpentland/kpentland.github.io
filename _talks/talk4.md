@@ -1,5 +1,6 @@
 ---
 title: "A brief history of time(-parallel methods)"
+type: "Talk"
 event: "MathSys Weekly Forum"
 location: "University of Warwick, UK"
 date: 2021-01-02

@@ -1,5 +1,6 @@
 ---
 title: "Faster simulations through time-parallelism"
+type: "Talk"
 event: "MathSys Annual Conference"
 location: "University of Warwick, UK"
 date: 2021-04-01
