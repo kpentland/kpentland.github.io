@@ -1,6 +1,7 @@
 ---
 title: "GParareal: a time-parallel ODE solver using Gaussian process emulation"
-event: "Warwick Statistics Department Conference (poster)"
+type: "Poster presentation"
+event: "Warwick Statistics Department Conference"
 location: "Gregynog Hall, UK"
 date: 2022-03-01
 # slides: "/assets/slides/icml2025.pdf"

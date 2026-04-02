@@ -1,6 +1,7 @@
 <div class="p-3 {% unless include.hide_bottom_border %}border-bottom{% endunless %}">
     <h5 class="mb-1">{{ include.item.title }}</h5>
 
+    <p class="mb-1 text-muted">{{ include.item.type }}</p>
     <p class="mb-1 text-muted">{{ include.item.event }}</p>
     <p class="mb-1 text-muted">{{ include.item.location }}</p>
     <p class="mb-1 text-muted">{{ include.item.date | date: "%B %Y" }}</p>

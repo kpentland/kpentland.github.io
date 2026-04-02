@@ -1,6 +1,7 @@
 ---
 title: "FreeGSNKE Pulse Design Tool: in silico scenario design and control validation for tokamak plasmas"
-event: "Open Source Software for Fusion Energy Conference (poster)"
+type: "Poster presentation"
+event: "Open Source Software for Fusion Energy Conference"
 location: "Munich, Germany"
 date: 2026-03-11
 # slides: "/assets/slides/icml2025.pdf"
