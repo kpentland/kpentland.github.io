@@ -25,7 +25,7 @@ authors:
   - S. J. P. Pamela
 
 links:
-  # Publication: https://ieeexplore.ieee.org/document/11151371
+  Publication: https://iopscience.iop.org/article/10.1088/1361-6587/ae8b29
   arXiv: https://arxiv.org/abs/2603.28513
   Code: https://github.com/FusionComputingLab/freegsnke
   Poster: /assets/docs/FPDT_poster.pdf
