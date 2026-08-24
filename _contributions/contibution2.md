@@ -1,9 +1,9 @@
 ---
-title: "MHD stability analysis of strongly shaped MAST-U plasmas"
-type: "Poster Presentation"
-event: "European Physical Society Plasma Physics Conference 2026"
-location: "Edinburgh, Scotland"
-date: 2026-07-02
+title: "Real-time plasma shape control via virtual circuit surrogates: integration and testing in the MAST-U PCS"
+type: "Talk"
+event: "15th Technical Meeting on Control Systems, Data Acquisition, Data Management and Remote Participation in Fusion Research"
+location: "Oxford, UK"
+date: 2026-05-19
 # presented_by: "S. Blackmore"
 authors:
   - S. Blackmore
