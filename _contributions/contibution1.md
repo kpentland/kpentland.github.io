@@ -5,25 +5,21 @@ event: "European Physical Society Plasma Physics Conference 2026"
 location: "Edinburgh, Scotland"
 date: 2026-07-02
 authors:
-  - M. Marshall
-  - E. Jones
-  - G. McArdle
   - A. Ross
-  - N. C. Amorisco
-  - C. Vincent
-  - C. Hogben
-  - G. Jones
-  - A. Stephen
-  - K. Pentland
-  - G. K. Holt
   - A. Agnello
+  - A. Garrod
+  - C. Vincent
+  - G. K. Holt
+  - G. McArdle
+  - K. Pentland
+  - N. C. Amorisco
+  - P. Cavestany
+  - T. Nunn
   
 abstract: >-
-  The deployment of advanced, AI-enabled control algorithms in tokamak experiments requires robust integration with existing plasma control system (PCS) architectures and extensive pre-experimental validation. In this contribution, we describe the implementation of neural-network-emulated virtual circuits for plasma shape control within the MAST Upgrade (MAST-U) PCS environment.
-
-  The neural network models are transformed into a real-time-suitable data structure and deployed via a C++ inference server that interfaces with the General Atomics Plasma Control System (GAPCS), a real-time control framework. An integration layer transfers real-time GAPCS signals into the neural network input space, executes inference within real-time constraints, and returns the resulting Jacobian coefficients to the control system. These coefficients are then used to assemble and invert the virtual circuit matrices and compute updated coil current requests for real-time actuation.
-
-  We discuss the overall software architecture and data pathways underpinning this integration, the timing and latency constraints encountered, and the challenges of interfacing modern AI components with real-time control infrastructure. Emphasis is placed on the validation workflow and best practices adopted to ensure confidence in the solution prior to experimental deployment. This work demonstrates a practical pathway for introducing AI-based control components into operational fusion control systems, with direct relevance for upcoming MAST-U experiments and future devices.
+  Reliable position and shape control in tokamak plasmas requires accurate real-time regulation of several strongly coupled shape parameters. The control vectors disentangling these couplings, hereafter referred to as Virtual Circuits (VCs), enable independent shape parameter control for a specific equilibrium. These VCs are conventionally computed in advance of an experiment using a small number of reference Grad–Shafranov equilibria and used to control the plasma across different pre-set time intervals. While effective near the reference equilibrium, this approach can lead to degraded performance when the plasma departs from the target trajectory and complicates the design of robust control strategies for rapidly evolving plasma configurations.
+  This work presents the construction of emulators for VCs that satisfy the requirements for use in real-time control on MAST Upgrade (MAST-U). We develop an extensive library of several million simulated magnetic equilibria, covering a substantial portion of the MAST-U operational space, and use it to train neural network emulators to predict shape parameters given plant parameters. These are differentiable functions, whose Jacobians can be computed with millisecond latency, providing accurate VCs suited for real-time shape control.
+  We perform extensive verification of the emulated VCs by applying small, independent shifts to a diverse set of several thousand equilibria and comparing the resulting target displacements with those obtained using finite-difference Jacobians of Grad-Shafranov solutions. The neural-network-based approach delivers high accuracy and orthogonality across the full equilibrium space. This work establishes the physical validity of emulated VCs as a scalable and general alternative to pre-set schedules of pre-computed VCs.
 
 links:
   # Publication: https://ieeexplore.ieee.org/document/11151371
