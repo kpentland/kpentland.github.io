@@ -11,10 +11,6 @@
         {{ item.event }}{% if item.location %} &middot; {{ item.location }}{% endif %} &middot; {{ item.date | date: "%B %Y" }}
     </p>
 
-    {% if item.presented_by %}
-    <p class="mb-1 small text-muted"><em>Presented by {{ item.presented_by }}</em></p>
-    {% endif %}
-
     {% if item.abstract %}
     <p class="mb-1">
         <a class="abstract-toggle small text-muted" data-toggle="collapse" href="#contrib-abstract-{{ include.uid }}" role="button" aria-expanded="false" aria-controls="contrib-abstract-{{ include.uid }}">
