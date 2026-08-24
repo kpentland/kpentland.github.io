@@ -1,14 +1,9 @@
 ---
 title: "FreeGSNKE Pulse Design Tool: in silico scenario design and control validation for tokamak plasmas"
 type: "Poster Presentation"
-event: "Open Source Software for Fusion Energy Conference"
-location: "Munich, Germany"
-date: 2026-03-11
-# description: "Invited talk on GParareal and stochastic time-parallel methods."
-# links:
-#   Slides: "/assets/slides/icml2025.pdf"
-#   Video: "https://youtube.com/..."
----
+event: "European Physical Society Plasma Physics Conference 2026"
+location: "Edinburgh, Scotland"
+date: 2026-07-02
 
 
 FreeGSNKE is a Python-based, open-source suite for solving a range of static and dynamic Grad–
@@ -38,3 +33,9 @@ current density profiles, and plasma resistivity, the FPDT achieves strong quant
 with target control waveforms and real-time MAST-U measurements. With this extension to the
 FreeGSNKE open-source suite, we aim to foster greater reproducibility and collaboration in plasma
 modelling and control research.
+
+# description: "Invited talk on GParareal and stochastic time-parallel methods."
+# links:
+#   Slides: "/assets/slides/icml2025.pdf"
+#   Video: "https://youtube.com/..."
+---

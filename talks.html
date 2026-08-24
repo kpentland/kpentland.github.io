@@ -40,11 +40,12 @@ body_attr: >-
 
     <div class="col-2 d-none d-lg-block">
         <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+            <a class="nav-link d-block small text-uppercase text-muted" href="#section-talks">Talks</a>
             {% for year in talks_by_year %}
             <a class="nav-link d-block" href="#year-{{ year.name }}">{{ year.name }}</a>
             {% endfor %}
             {% if contributions_by_year.size > 0 %}
-            <a class="nav-link d-block pt-3 small text-uppercase text-muted" href="#section-contributions">Contributions</a>
+            <a class="nav-link d-block pt-3 small text-uppercase text-muted" href="#section-contributions">Other contributions</a>
             {% for year in contributions_by_year %}
             <a class="nav-link d-block" href="#contrib-year-{{ year.name }}">{{ year.name }}</a>
             {% endfor %}
