@@ -1,7 +1,7 @@
 ---
 title:          "Real-time virtual circuits for plasma shape control via neural network emulators: dynamic validation in closed-loop simulations"
 selected:       true
-pub:            "arXiv"
+pub:            "65th IEEE Conference on Decision and Control"
 date:           2026-04-01 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-

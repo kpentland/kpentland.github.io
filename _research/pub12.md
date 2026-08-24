@@ -1,7 +1,7 @@
 ---
 title:          "The FreeGSNKE Pulse Design Tool (FPDT): a computational framework for evolutive plasma scenario and control design"
 selected:       true
-pub:            "arXiv"
+pub:            "Plasma Physics and Controlled Fusion"
 date:           2026-03-31 00:01:00 +0800  # so the site can order them correctly
 
 abstract: >-
