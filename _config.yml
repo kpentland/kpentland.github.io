@@ -43,4 +43,6 @@ collections:
     output: true
   talks:
     output: true
+  contributions:
+    output: true
 

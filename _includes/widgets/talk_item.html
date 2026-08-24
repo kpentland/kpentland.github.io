@@ -1,20 +1,41 @@
+{%- assign item = include.item -%}
+{%- case item.type -%}
+    {%- when "Poster Presentation" or "Poster" -%}
+        {%- assign badge_class = "badge-info" -%}
+    {%- when "Invited Talk" -%}
+        {%- assign badge_class = "badge-primary" -%}
+    {%- when "Workshop" -%}
+        {%- assign badge_class = "badge-success" -%}
+    {%- else -%}
+        {%- assign badge_class = "badge-secondary" -%}
+{%- endcase -%}
+
 <div class="p-3 {% unless include.hide_bottom_border %}border-bottom{% endunless %}">
-    <h5 class="mb-1">{{ include.item.title }}</h5>
+    <div class="d-flex align-items-start justify-content-between">
+        <p class="mb-1 mr-3 font-weight-normal">{{ item.title }}</p>
+        <span class="badge {{ badge_class }} text-nowrap mt-1">{{ item.type }}</span>
+    </div>
 
-    <p class="mb-1 text-muted">{{ include.item.type }}</p>
-    <p class="mb-1 text-muted">{{ include.item.event }}</p>
-    <p class="mb-1 text-muted">{{ include.item.location }}</p>
-    <p class="mb-1 text-muted">{{ include.item.date | date: "%B %Y" }}</p>
+    <p class="mb-1 small text-muted">
+        {{ item.event }}{% if item.location %} &middot; {{ item.location }}{% endif %} &middot; {{ item.date | date: "%B %Y" }}
+    </p>
 
-    {% if include.item.description %}
-    <p class="mb-1">{{ include.item.description }}</p>
+    {% if item.description %}
+    <p class="mb-1">
+        <a class="abstract-toggle small text-muted" data-toggle="collapse" href="#talk-abstract-{{ include.uid }}" role="button" aria-expanded="false" aria-controls="talk-abstract-{{ include.uid }}">
+            <i class="fas fa-caret-right"></i> Abstract
+        </a>
+    </p>
+    <div class="collapse" id="talk-abstract-{{ include.uid }}">
+        <p class="small text-muted">{{ item.description }}</p>
+    </div>
     {% endif %}
 
-    {% if include.item.slides %}
-    <a href="{{ include.item.slides }}" target="_blank">Slides</a>
-    {% endif %}
-
-    {% if include.item.video %}
-    | <a href="{{ include.item.video }}" target="_blank">Video</a>
+    {% if item.links %}
+    <p class="mb-0 small abstract-links">
+        {% for link in item.links %}
+        <a target="_blank" href="{{ link[1] }}">[{{ link[0] }}]</a>
+        {% endfor %}
+    </p>
     {% endif %}
 </div>

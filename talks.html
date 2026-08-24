@@ -7,17 +7,35 @@ body_attr: >-
 ---
 
 {% assign talks_by_year = site.talks | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+{% assign contributions_by_year = site.contributions | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
     <div class="col-12 col-lg-10">
+        <h1 class="pt-2" id="section-talks">Conferences and workshops</h1>
+        <p class="text-muted">An almost complete list of conferences/workshops I've attended over the years.</p>
         {% for year in talks_by_year %}
         <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
         <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
             {% for item in year.items %}
-                {% include widgets/talk_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                {% capture item_uid %}{{ year.name }}-{{ forloop.index }}{% endcapture %}
+                {% include widgets/talk_item.html item=item uid=item_uid hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
             {% endfor %}
         </div>
         {% endfor %}
+
+        {% if contributions_by_year.size > 0 %}
+        <h1 class="pt-5" id="section-contributions">Other contributions</h1>
+        <p class="text-muted">Works I've contributed to that were presented at conferences/workshops by collaborators.</p>
+        {% for year in contributions_by_year %}
+        <h2 class="pt-4" id="contrib-year-{{ year.name }}">{{ year.name }}</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+            {% for item in year.items %}
+                {% capture item_uid %}c-{{ year.name }}-{{ forloop.index }}{% endcapture %}
+                {% include widgets/contribution_item.html item=item uid=item_uid hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+            {% endfor %}
+        </div>
+        {% endfor %}
+        {% endif %}
     </div>
 
     <div class="col-2 d-none d-lg-block">
@@ -25,6 +43,12 @@ body_attr: >-
             {% for year in talks_by_year %}
             <a class="nav-link d-block" href="#year-{{ year.name }}">{{ year.name }}</a>
             {% endfor %}
+            {% if contributions_by_year.size > 0 %}
+            <a class="nav-link d-block pt-3 small text-uppercase text-muted" href="#section-contributions">Contributions</a>
+            {% for year in contributions_by_year %}
+            <a class="nav-link d-block" href="#contrib-year-{{ year.name }}">{{ year.name }}</a>
+            {% endfor %}
+            {% endif %}
         </div>
     </div>
 </div>

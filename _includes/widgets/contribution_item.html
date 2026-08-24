@@ -1,0 +1,36 @@
+{%- assign item = include.item -%}
+<div class="p-3 {% unless include.hide_bottom_border %}border-bottom{% endunless %}">
+    <div class="d-flex align-items-start justify-content-between">
+        <p class="mb-1 mr-3 font-weight-normal">{{ item.title }}</p>
+        {% if item.type %}<span class="badge badge-light text-nowrap mt-1">{{ item.type }}</span>{% endif %}
+    </div>
+
+    <p class="mt-0 mb-1 small">{% include widgets/author_list.html authors=item.authors %}</p>
+
+    <p class="mb-1 small text-muted">
+        {{ item.event }}{% if item.location %} &middot; {{ item.location }}{% endif %} &middot; {{ item.date | date: "%B %Y" }}
+    </p>
+
+    {% if item.presented_by %}
+    <p class="mb-1 small text-muted"><em>Presented by {{ item.presented_by }}</em></p>
+    {% endif %}
+
+    {% if item.abstract %}
+    <p class="mb-1">
+        <a class="abstract-toggle small text-muted" data-toggle="collapse" href="#contrib-abstract-{{ include.uid }}" role="button" aria-expanded="false" aria-controls="contrib-abstract-{{ include.uid }}">
+            <i class="fas fa-caret-right"></i> Abstract
+        </a>
+    </p>
+    <div class="collapse" id="contrib-abstract-{{ include.uid }}">
+        <p class="small text-muted">{{ item.abstract }}</p>
+    </div>
+    {% endif %}
+
+    {% if item.links %}
+    <p class="mb-0 small abstract-links">
+        {% for link in item.links %}
+        <a target="_blank" href="{{ link[1] }}">[{{ link[0] }}]</a>
+        {% endfor %}
+    </p>
+    {% endif %}
+</div>

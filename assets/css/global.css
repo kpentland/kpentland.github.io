@@ -67,3 +67,16 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+.abstract-toggle {
+    text-decoration: none;
+}
+
+.abstract-toggle .fa-caret-right {
+    display: inline-block;
+    transition: transform 0.15s ease-in-out;
+}
+
+.abstract-toggle[aria-expanded="true"] .fa-caret-right {
+    transform: rotate(90deg);
+}
+

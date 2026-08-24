@@ -4,7 +4,8 @@ type: "Poster Presentation"
 event: "Computing Division Research Showcase"
 location: "UKAEA"
 date: 2024-12-01
-# slides: "/assets/slides/icml2025.pdf"
-# video: "https://youtube.com/..."
 # description: "Invited talk on GParareal and stochastic time-parallel methods."
+# links:
+#   Slides: "/assets/slides/icml2025.pdf"
+#   Video: "https://youtube.com/..."
 ---
