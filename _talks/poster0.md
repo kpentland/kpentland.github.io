@@ -4,6 +4,11 @@ type: "Poster Presentation"
 event: "SIAM National Student Chapter Conference"
 location: "University of Oxford, UK"
 date: 2021-06-01
+authors:
+  - K. Pentland
+  - M. Tamborrino
+  - D. Samaddar
+  - L. C. Appel
 # description: "Invited talk on GParareal and stochastic time-parallel methods."
 # links:
 #   Slides: "/assets/slides/icml2025.pdf"

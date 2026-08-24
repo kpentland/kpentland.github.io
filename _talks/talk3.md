@@ -4,6 +4,11 @@ type: "Talk"
 event: "SPAAM Seminar"
 location: "University of Warwick, UK"
 date: 2021-01-01
+authors:
+  - K. Pentland
+  - M. Tamborrino
+  - D. Samaddar
+  - L. C. Appel
 # description: "Invited talk on GParareal and stochastic time-parallel methods."
 # links:
 #   Slides: "/assets/slides/icml2025.pdf"

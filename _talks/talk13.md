@@ -4,6 +4,9 @@ type: "Invited Talk"
 event: "ExCALIBUR: Data Driven Algorithms"
 location: "University of Exeter, UK"
 date: 2024-01-01
+# authors:
+#   - K. Pentland
+#   - ...
 # description: "Invited talk on GParareal and stochastic time-parallel methods."
 # links:
 #   Slides: "/assets/slides/icml2025.pdf"

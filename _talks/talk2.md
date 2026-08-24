@@ -4,6 +4,10 @@ type: "Talk"
 event: "MSc Project Talks"
 location: "University of Warwick, UK"
 date: 2020-09-01
+authors:
+  - K. Pentland
+  - R. Cimpeanu
+  - E. Brambley
 # description: "Invited talk on GParareal and stochastic time-parallel methods."
 # links:
 #   Slides: "/assets/slides/icml2025.pdf"

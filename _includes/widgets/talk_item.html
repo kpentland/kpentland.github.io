@@ -16,6 +16,10 @@
         <span class="badge {{ badge_class }} text-nowrap mt-1">{{ item.type }}</span>
     </div>
 
+    {% if item.authors %}
+    <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
+    {% endif %}
+
     <p class="mb-1 small text-muted">
         {{ item.event }}{% if item.location %} &middot; {{ item.location }}{% endif %} &middot; {{ item.date | date: "%B %Y" }}
     </p>

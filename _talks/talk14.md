@@ -4,6 +4,20 @@ type: "Talk"
 event: "Computing Division Technical Talks"
 location: "UKAEA"
 date: 2024-07-01
+authors:
+  - K. Pentland
+  - N. C. Amorisco
+  - O. El-Zobaidi
+  - S. Etches
+  - A. Agnello
+  - G. K. Holt
+  - A. Ross
+  - C. Vincent
+  - J. Buchanan
+  - S. J. P. Pamela
+  - G. McArdle
+  - L. Kogan
+  - G. Cunningham
 # description: "Invited talk on GParareal and stochastic time-parallel methods."
 # links:
 #   Slides: "/assets/slides/icml2025.pdf"
