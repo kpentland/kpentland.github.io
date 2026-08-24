@@ -21,23 +21,26 @@ orcid: 0000-0001-9530-1890
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a computational scientist working in the plasma simulation group at the <a href="https://ccfe.ukaea.uk/" target="_blank">United Kingdom Atomic Energy Authority</a>.
+    My name is Kamran and I'm a computational scientist working in the plasma simulation group at the <a href="https://ccfe.ukaea.uk/" target="_blank">United Kingdom Atomic Energy Authority</a>.
   </p>
   <p>
-    I am interested in all sorts of mathematical modelling problems (regardless of the application) and often find myself working at the interface between applied and computational mathematics. I have particular interests in:
+    My current work involves developing and maintaining the in-house tokamak equilibrium modelling code <a href="https://github.com/FusionComputingLab/freegsnke" target="_blank">FreeGSNKE</a>.
+    Our group has been successfully using FreeGSNKE for plasma scenario and magnetic control modelling on both <a href="https://www.ukaea.org/work/mast-upgrade/" target="_blank">MAST-U</a> and <a href="https://stepfusion.com/" target="_blank">STEP</a> (see Research page).
+  </p>
+  <p>
+    I am interested in all sorts of mathematical modelling problems and often find myself working at the interface between applied and computational mathematics. I have particular interests in:
   </p>
   <ul>
-  <li> MHD equilibrium modelling. </li>
-  <li> Tokamak plasma control. </li>
+  <li> Tokamak MHD equilibrium modelling and control. </li>
   <li> Numerical integration for ODEs/PDEs. </li>
-  <li> Surrogate modelling (e.g. Gaussian processes). </li>
+  <li> Surrogate modelling (e.g. Gaussian processes, neural networks). </li>
   <li> Bayesian methods (e.g. data assimilation, optimisation, UQ). </li>
   <li> Parallel-in-Time (PinT) methods. </li>
   <li> High performance computing. </li>
   <li> Multiscale/hybrid modelling problems. </li>
   </ul>
   <p>
-    Do get in contact if you'd like to discuss any of my research or are interested in collaboration! 
+    Do get in contact if you'd like to discuss any of my research or are interested in collaboration!
   </p>
 
 portrait_url: /assets/images/profile.jpeg
