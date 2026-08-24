@@ -4,9 +4,21 @@ type: "Talk"
 event: "Software Unconference"
 location: "UKAEA"
 date: 2026-02-05
-# authors:
-#   - K. Pentland
-#   - ...
+authors:
+  - N. C. Amorisco
+  - K. Pentland
+  - G. K. Holt
+  - A. Agnello
+  - A. Ross
+  - P. Cavestany
+  - T. Nunn
+  - G. McArdle
+  - C. Vincent
+  - G. Cunningham
+  - U. Qadri
+  - J. Buchanan
+  - S. Pamela
+
 # description: "Invited talk on GParareal and stochastic time-parallel methods."
 # links:
 #   Slides: "/assets/slides/icml2025.pdf"
