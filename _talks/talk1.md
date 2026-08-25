@@ -3,9 +3,13 @@ title: "Stochastic parareal: an application of probabilistic methods to time-par
 type: "Talk"
 event: "Physics Seminar"
 location: "Culham Centre for Fusion Energy, UK"
-date: 2020-07-01
+date: 2020-07-24
 authors:
   - K. Pentland
+  - Y. Zhou
+  - H. Ni
+  - J. McKendrick
+  - J. Bara
   - M. Tamborrino
   - D. Samaddar
   - L. C. Appel

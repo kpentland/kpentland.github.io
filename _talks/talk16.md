@@ -5,8 +5,8 @@ event: "Software Unconference"
 location: "UKAEA"
 date: 2026-02-05
 authors:
-  - N. C. Amorisco
   - K. Pentland
+  - N. C. Amorisco
   - G. K. Holt
   - A. Agnello
   - A. Ross

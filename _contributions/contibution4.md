@@ -1,5 +1,5 @@
 ---
-title: "Overview of Improvements to the Capabilities of the Plasma Control System of the MAST Upgrade Tokamak"
+title: "Overview of improvements to the capabilities of the plasma control system of the MAST Upgrade tokamak"
 type: "Talk"
 event: "34th Symposium on Fusion Technology"
 location: "Aix-en-Provence, France"

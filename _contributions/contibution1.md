@@ -1,5 +1,5 @@
 ---
-title: "Real Time Virtual Circuits for plasma shape control via NN surrogates"
+title: "Real time virtual circuits for plasma shape control via NN surrogates"
 type: "Poster Presentation"
 event: "European Physical Society Plasma Physics Conference 2026"
 location: "Edinburgh, Scotland"
