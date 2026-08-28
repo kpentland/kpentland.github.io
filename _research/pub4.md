@@ -1,6 +1,6 @@
 ---
 title:          "GParareal: a time-parallel ODE solver using Gaussian process emulation"
-selected:       true
+selected:       false
 pub:            "Statistics and Computing"
 date:           2023-01-02 00:01:00 +0800  # so the site can order them correctly
 

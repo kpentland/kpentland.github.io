@@ -1,6 +1,6 @@
 ---
 title:          "Real-time applicability of emulated virtual circuits for tokamak plasma shape control"
-selected:       true
+selected:       false
 pub:            "2025 IEEE Conference on Control Technology and Applications"
 date:           2025-05-15 00:01:00 +0800  # so the site can order them correctly
 
