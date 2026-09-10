@@ -1,9 +1,9 @@
 ---
-title: "Modelling the fluid dynamics, mixing technologies, and crystallisation properties of chocolate"
+title: "FUSE.jl Workshop"
 type: "Workshop"
-event:  "HetSys Virtual Study Groups"
-location: "University of Warwick, UK"
-date: 2020-12-01
+event: "FUSE.jl Workshop"
+location: "General Atomics, San Diego, U.S."
+date: 2024-12-09
 # authors:
 #   - K. Pentland
 #   - ...

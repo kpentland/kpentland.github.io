@@ -1,9 +1,9 @@
 ---
-title: "Modelling the fluid dynamics, mixing technologies, and crystallisation properties of chocolate"
+title: "Culham Plasma Physics Summer School"
 type: "Workshop"
-event:  "HetSys Virtual Study Groups"
-location: "University of Warwick, UK"
-date: 2020-12-01
+event:  "Culham Plasma Physics Summer School"
+location: "Culham Centre for Fusion Energy, UK"
+date: 2022-07-01
 # authors:
 #   - K. Pentland
 #   - ...

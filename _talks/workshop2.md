@@ -1,9 +1,9 @@
 ---
-title: "Modelling the fluid dynamics, mixing technologies, and crystallisation properties of chocolate"
+title: "Gaussian process Summer School"
 type: "Workshop"
-event:  "HetSys Virtual Study Groups"
-location: "University of Warwick, UK"
-date: 2020-12-01
+event:  "Gaussian process Summer School"
+location: "University of Sheffield, UK"
+date: 2021-09-01
 # authors:
 #   - K. Pentland
 #   - ...

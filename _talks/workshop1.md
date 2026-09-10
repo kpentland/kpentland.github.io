@@ -1,9 +1,9 @@
 ---
-title: "Modelling the fluid dynamics, mixing technologies, and crystallisation properties of chocolate"
+title: "The sperm optimisation toolbox: how does fish sperm find the egg in open water?"
 type: "Workshop"
-event:  "HetSys Virtual Study Groups"
-location: "University of Warwick, UK"
-date: 2020-12-01
+event:  "UK Graduate Modelling Camp"
+location: "University of Oxford, UK"
+date: 2021-03-01
 # authors:
 #   - K. Pentland
 #   - ...
